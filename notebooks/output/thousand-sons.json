@@ -1,0 +1,5405 @@
+[
+  {
+    "name": "Ahriman",
+    "stats": {
+      "M": "10\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Transmogrifying Blast blast psychic",
+        "range": "18\"",
+        "A": "D6+1",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Black Staff of Ahriman psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "7",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Scryer of Fates (Psychic)",
+        "description": "If your army includes this model, after both players have deployed their armies, you can select up to three THOUSAND SONS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves.Arch-Sorcerer of Tzeentch (Psychic): Each time this model attempts a Ritual, add 1 to the Psychic test result."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "MOUNTED",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "FLY",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "AHRIMAN",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Daemon Prince of Tzeentch",
+    "stats": {
+      "M": "9\"",
+      "T": "10",
+      "Sv": "2+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Dark Blessing ignores cover psychic sustained hits 1",
+        "range": "24\"",
+        "A": "9",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Infernal cannon",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hellforged weapons – strike devastating wounds psychic",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hellforged weapons – sweep devastating wounds psychic",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Servile Pawns",
+        "description": "While this model is within 3\" of one or more friendly THOUSAND SONS INFANTRY units, this model has the Lone Operative ability.Spirit Snare: Each time a friendly THOUSAND SONS PSYKER model with the Cabal of Sorcerers ability is destroyed while within 9\" of one or more models with this ability, select one of those models with this ability: until the end of the battle, each time the selected model attempts a Ritual, add 1 to the Psychic test result (to a maximum of +2).Glamour of Tzeentch (Aura, Psychic): While a friendly THOUSAND SONS INFANTRY unit is within 6\" of this model, models in that unit have the Stealth ability."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "DAEMON",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "DAEMON",
+      "PRINCE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Daemon Prince of Tzeentch with Wings",
+    "stats": {
+      "M": "13\"",
+      "T": "9",
+      "Sv": "2+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Dark Blessing ignores cover psychic sustained hits 1",
+        "range": "24\"",
+        "A": "9",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Infernal cannon",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hellforged weapons – strike devastating wounds psychic",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hellforged weapons – sweep devastating wounds psychic",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Hunter of Souls",
+        "description": "Each time this model makes an attack that targets a CHARACTER unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1 (if that attack targets a PSYKER CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll instead). Each time this model destroys a CHARACTER unit, this model regains up to D3 lost wounds (if that CHARACTER unit was a PSYKER unit, this model regains up to 3 lost wounds instead).Aetherstride (Psychic): In your Movement phase, when this model is set up on the battlefield using the Deep Strike ability, it can perform an aetherstride. If it does:It can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.Until the end of the turn, its Dark Blessing has the [SUSTAINED HITS D3] ability.Until the end of the turn, it is not eligible to declare a charge."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "DAEMON",
+      "FLY",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "DAEMON",
+      "PRINCE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Exalted Sorcerer",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Astral Blast blast devastating wounds psychic",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Prosperine khopesh",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Arcane Shield (Psychic)",
+        "description": "While this model is leading a unit, models in that unit have a 4+ invulnerable save.Rebind Rubricae (Psychic): In your Command phase, if this model is leading a unit, you can roll one D6: on a 1, that unit suffers D3 mortal wounds; on a 2-5, you can return 1 destroyed Bodyguard model to that unit; on a 6, you can return up to 2 destroyed Bodyguard models to that unit."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "GRENADES",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "EXALTED",
+      "SORCERER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Exalted Sorcerer on Disc of Tzeentch",
+    "stats": {
+      "M": "10\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Arcane Fire ignores cover psychic torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Prosperine khopesh",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Illusions of Tzeentch (Psychic)",
+        "description": "While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\".Binding Tendrils (Psychic): In your Shooting phase, after this model has shot, select one enemy INFANTRY unit hit by one or more of those attacks made with Arcane Fire. Until the start of your next turn, that unit is ensnared. While a unit is ensnared, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "MOUNTED",
+      "CHARACTER",
+      "FLY",
+      "GRENADES",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "EXALTED",
+      "SORCERER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Infernal Master",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fires of the Abyss – witchfire psychic torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fires of the Abyss – focused witchfire hazardous psychic torrent",
+        "range": "18\"",
+        "A": "2D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Malefic Maelstrom (Psychic)",
+        "description": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.Glimpse of Eternity (Psychic): Once per turn, you can change the result of one Hit roll, one Wound roll or one saving throw made for this model to an unmodified 6."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "GRENADES",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "INFERNAL",
+      "MASTER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Kairos Fateweaver",
+    "stats": {
+      "M": "12\"",
+      "T": "10",
+      "Sv": "6+",
+      "W": "20",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Infernal Gateway – witchfire blast indirect fire psychic",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Infernal Gateway – focused witchfire blast indirect fire hazardous psychic",
+        "range": "24\"",
+        "A": "D3+6",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Staff of Tomorrow psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "One Head Looks Forward",
+        "description": "At the end of your Command phase, if this model is on the battlefield, take a Leadership test for this model; if that test is passed, you gain 1CP.One Head Looks Back (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "FLY",
+      "PSYKER",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "KAIROS",
+      "FATEWEAVER",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Lord of Change",
+    "stats": {
+      "M": "12\"",
+      "T": "10",
+      "Sv": "6+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Rod of sorcery psychic",
+        "range": "18\"",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Bolt of Change – witchfire psychic",
+        "range": "18\"",
+        "A": "9",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bolt of Change – focused witchfire hazardous psychic",
+        "range": "18\"",
+        "A": "9",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Baleful sword extra attacks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Staff of Tzeentch psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Daemon Lord of Tzeentch (Aura)",
+        "description": "While a friendly SCINTILLATING LEGIONS unit is within 6\" of this model, each time a model in that unit makes a ranged attack, add 1 to the Strength characteristic of that attack.Master of Magicks (Psychic): In your Shooting phase, select one of the following abilities: [IGNORES COVER]; [LETHAL HITS]; [SUSTAINED HITS D3]. Until the end of the phase, this model’s Bolt of Change has that ability."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "FLY",
+      "PSYKER",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "LORD",
+      "CHANGE",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Magnus The Red",
+    "stats": {
+      "M": "14\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "5+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Gaze of Magnus devastating wounds psychic",
+        "range": "24\"",
+        "A": "3D3",
+        "BS_WS": "2+",
+        "S": "11",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Tzeentch’s Firestorm blast ignores cover psychic",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Blade of Magnus – strike devastating wounds psychic",
+        "range": "Melee",
+        "A": "7",
+        "BS_WS": "2+",
+        "S": "16",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Blade of Magnus – sweep psychic",
+        "range": "Melee",
+        "A": "14",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Unearthly Power",
+        "description": "At the start of the battle round, select one of the abilities in the Crimson King section (see left). Until the start of the next battle round, this model has that ability.Lord of the Planet of the Sorcerers (Psychic): This model can attempt up to two Rituals per turn instead of one, and each time this model attempts a Ritual, add 2 to the Psychic test result."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "FLY",
+      "DAEMON",
+      "PRIMARCH",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "MAGNUS",
+      "RED",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Pandaemonic Delusion psychic sustained hits 3",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Prosperine khopesh",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Empyric Guidance (Psychic)",
+        "description": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.Twisted Sorceries (Psychic): Once per battle, in your Shooting phase or the Fight phase, this model can use this ability. If it does, until the end of the phase, improve the Strength and Attacks characteristics of Psychic weapons equipped by this model by 3."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "PSYKER",
+      "GRENADES",
+      "CHAOS",
+      "TZEENTCH",
+      "SORCERER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sorcerer In Terminator Armour",
+    "stats": {
+      "M": "5\"",
+      "T": "5",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Gaze of Hate anti-monster 4+ anti-vehicle 4+ devastating wounds psychic",
+        "range": "18\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Empyric Guidance (Psychic)",
+        "description": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.Marked by Fate (Psychic): At the start of your Shooting phase, select one enemy unit that is visible to this PSYKER model. Until the end of the phase, each time a model in this unit makes an attack that targets that enemy unit, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "PSYKER",
+      "TERMINATOR",
+      "CHAOS",
+      "TZEENTCH",
+      "SORCERER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Tzaangor Shaman",
+    "stats": {
+      "M": "10\"",
+      "T": "4",
+      "Sv": "5+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Baleful Devolution blast devastating wounds psychic",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force stave psychic",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bestial Prophet",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.Sacrificial Blessing: While this model is leading a unit, in your Shooting phase and the Fight phase, each time that unit is selected to shoot or fight, this model can use this ability. If it does, select one Bodyguard model in that unit; that Bodyguard model is destroyed and, until the end of the phase, add D3 to the Attacks and Strength characteristics of Psychic weapons equipped by this model."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "MOUNTED",
+      "CHARACTER",
+      "FLY",
+      "PSYKER",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "TZAANGOR",
+      "SHAMAN",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Disc Of Tzeentch",
+    "stats": {
+      "M": "12\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma pistol – standard pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "7",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma pistol – supercharge hazardous pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Accursed weapon",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Astartes chainsword",
+        "range": "Melee",
+        "A": "7",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Paired accursed weapons twin-linked",
+        "range": "Melee",
+        "A": "7",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power fist",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lord of Chaos",
+        "description": "Once per battle round, one unit from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP.Lord of Fate: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "GRENADES",
+      "CHAOS",
+      "TZEENTCH",
+      "FLY",
+      "CHAOS",
+      "LORD",
+      "DISC",
+      "TZEENTCH",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Blue Horrors",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "7+",
+      "W": "1",
+      "Ld": "8+",
+      "OC": "0"
+    },
+    "weapons": [
+      {
+        "name": "Coruscating blue flames pistol psychic",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Coruscating yellow flames pistol psychic",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "5+",
+        "S": "2",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Blue claws",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "5+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Yellow claws",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "5+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Split",
+        "description": "Each time a BLUE HORROR model in this unit is destroyed, after the attacking unit has finished making its attacks, if this unit is not destroyed, roll one D6 for that model. On a 4+, add one BRIMSTONE HORROR model to this unit.Sullen Malevolence (Aura): While an enemy unit is within 6\" of this unit, if this unit contains one or more BLUE HORROR models, worsen the Leadership characteristic of models in that enemy unit by 1.Exploding Horrors: Each time this unit is selected to fight, you can select one enemy unit within Engagement Range of it, then select one or more BRIMSTONE HORROR models in this unit. For each BRIMSTONE HORROR model you select, roll one D6: on a 4+, that model is destroyed and that enemy unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "HORRORS",
+      "BLUE",
+      "BRIMSTONE",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Pink Horrors",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "7+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Coruscating blue flames pistol psychic",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Coruscating pink flames pistol psychic",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Coruscating yellow flames pistol psychic",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "5+",
+        "S": "2",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Blue claws",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "5+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Pink claws",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Yellow claws",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "5+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Split",
+        "description": "Each time a PINK HORROR or BLUE HORROR model in this unit is destroyed, after the attacking unit has finished making its attacks, if this unit is not destroyed, roll one D6 for that model. On a 4+, if it was a PINK HORROR, add two BLUE HORROR models to this unit, and if it was a BLUE HORROR, add one BRIMSTONE HORROR model to this unit."
+      },
+      {
+        "name": "Daemonic Icon",
+        "description": "Models in the bearer’s unit have a Leadership characteristic of 6+."
+      },
+      {
+        "name": "Instrument of Chaos",
+        "description": "Add 1 to Charge rolls made for the bearer’s unit."
+      },
+      {
+        "name": "Designer’s Note",
+        "description": "If, at any point, this unit contains no PINK HORROR models, use the BLUE HORRORS datasheet for this unit. While this unit contains one or more PINK HORROR models, the Sullen Malevolence and Exploding Horrors abilities from the BLUE HORRORS datasheet do not apply to this unit."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "HORRORS",
+      "PINK",
+      "BLUE",
+      "BRIMSTONE",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Rubric Marines",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Inferno bolt pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno boltgun",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Malefic Curse anti-infantry 4+ devastating wounds psychic",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Soulreaper cannon devastating wounds",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Warpflame pistol ignores cover pistol torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Warpflamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bringers of Change",
+        "description": "Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1. If that attack targets a unit within range of an objective marker you do not control, you can re-roll the Wound roll instead."
+      },
+      {
+        "name": "Icon of Flame",
+        "description": "Ranged weapons equipped by models in the bearer’s unit (excluding CHARACTERS) have the [IGNORES COVER] ability."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "CHAOS",
+      "TZEENTCH",
+      "RUBRICAE",
+      "RUBRIC",
+      "MARINES",
+      "PSYKER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Rhino",
+    "stats": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Sorcerous Support",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes a Psychic Attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "RHINO",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Terrax-pattern Termite",
+    "stats": {
+      "M": "8\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer torrent ignores cover",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Terrax melta cutter melta 2",
+        "range": "12\"",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin volkite charger devastating wounds twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Termite drill anti-vehicle 3+",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "14",
+        "AP": "-2",
+        "D": "D3+3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Termite Assault",
+        "description": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "TERRAX-PATTERN",
+      "TERMITE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Land Raider",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Soulshatter lascannon",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin inferno heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Assault Ramp",
+        "description": "Each time a unit disembarks from this TRANSPORT after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TRANSPORT",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "LAND",
+      "RAIDER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Predator Annihilator",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Predator twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ensorcelled Annihilation",
+        "description": "Each time this model makes a ranged attack that targets a MONSTER or VEHICLE unit that was hit by one or more Psychic Attacks made by a THOUSAND SONS PSYKER model from your army this phase (including the Doombolt Ritual), you can re-roll the Hit roll and you can re-roll the Damage roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "PREDATOR",
+      "ANNIHILATOR",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Predator Destructor",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Predator autocannon rapid fire 2",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ensorcelled Destruction",
+        "description": "Each time this model makes a ranged attack that targets a unit (excluding MONSTERS and VEHICLES) that was hit by one or more Psychic Attacks made by a THOUSAND SONS PSYKER model from your army this phase (including the Doombolt Ritual), improve the Strength and Armour Penetration characteristics of that attack by 1."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "PREDATOR",
+      "DESTRUCTOR",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Spawn",
+    "stats": {
+      "M": "8\"",
+      "T": "5",
+      "Sv": "4+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Hideous mutations",
+        "range": "Melee",
+        "A": "D6+2",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Regenerating Monstrosities",
+        "description": "At the start of each player’s Command phase, one model in this unit regains up to 3 lost wounds."
+      }
+    ],
+    "keywords": [
+      "BEAST",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "CHAOS",
+      "SPAWN",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Vindicator",
+    "stats": {
+      "M": "9\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Demolisher cannon blast",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Siege Shield",
+        "description": "When making ranged attacks with its demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "VINDICATOR",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Defiler",
+    "stats": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Ectoplasma destructor blast",
+        "range": "36\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Excruciator cannon",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hades battle cannon blast",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hades lascannon",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy baleflamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6+3",
+        "BS_WS": "N/A",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy missile launcher – krak",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy missile launcher – frag blast",
+        "range": "48\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy reaper autocannon devastating wounds sustained hits 1",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Pyraflux magma cutters melta 2",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Electroscourge extra attacks sustained hits 2",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shearing claws – strike",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Shearing claws – sweep",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Scuttling Walker",
+        "description": "Each time this unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.Destroyer of Futures: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem. For each of those attacks that targets an enemy unit within 9\" of one or more THOUSAND SONS PSYKER units from your army, a hit is scored on an unmodified Hit roll of 4+ instead."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "DAEMON",
+      "DEFILER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Flamers",
+    "stats": {
+      "M": "9\"",
+      "T": "4",
+      "Sv": "7+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Flickering flames ignores cover psychic torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Flamer mouths",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bounding Leaps",
+        "description": "This unit is eligible to shoot in a turn in which it Fell Back."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "FLY",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "FLAMERS",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Forgefiend",
+    "stats": {
+      "M": "8\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Ectoplasma cannon blast",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hades autocannon",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Forgefiend claws",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Forgefiend jaws",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Blazing Salvoes",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "DAEMON",
+      "CHAOS",
+      "TZEENTCH",
+      "FORGEFIEND",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Helbrute",
+    "stats": {
+      "M": "8\"",
+      "T": "9",
+      "Sv": "2+",
+      "W": "8",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Helbrute plasma cannon blast hazardous",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – frag blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – krak",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin autocannon twin-linked",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin inferno heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Helbrute fist",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Helbrute hammer",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "4+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Power scourge",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Terrifying Assault",
+        "description": "In your Shooting phase and the Fight phase, after this model has shot or fought, select one enemy unit hit by one or more of those attacks. That unit must take a Battle-shock test, subtracting 1 from that test if it is within 9\" of one or more THOUSAND SONS PSYKER units from your army.Devoted to Destruction: If this model is equipped with two melee weapons in addition to its close combat weapon, add 2 to the Attacks characteristic of those two weapons."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "HELBRUTE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Heldrake",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Baleflamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6+3",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hades autocannon",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heldrake claws anti-fly 2+ devastating wounds",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Flame-wreathed",
+        "description": "Each time this model ends a Normal move, select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AIRCRAFT",
+      "FLY",
+      "DAEMON",
+      "CHAOS",
+      "TZEENTCH",
+      "HELDRAKE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Maulerfiend",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Magma cutter melta 2",
+        "range": "6\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Lasher tendrils extra attacks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Maulerfiend fists",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-2",
+        "D": "D6+1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Snarling Protector",
+        "description": "You can target this model with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. In addition, each time this model declares a charge that targets an enemy unit within Engagement Range of one or more THOUSAND SONS PSYKER units from your army, you can re-roll the Charge roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "DAEMON",
+      "CHAOS",
+      "TZEENTCH",
+      "MAULERFIEND",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Mutalith Vortex Beast",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "4+",
+      "W": "13",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Warp vortex – blast blast",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Warp vortex – beam devastating wounds",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-3",
+        "D": "D6+6",
+        "abilities": ""
+      },
+      {
+        "name": "Warp vortex – torrent ignores cover torrent",
+        "range": "18\"",
+        "A": "2D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Betentacled maw",
+        "range": "Melee",
+        "A": "15",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Mutalith claws",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Mutating Vortex (Aura)",
+        "description": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds. Each enemy unit within range of this ability must then take a Battle-shock test.Immaterial Flare (Aura): While a friendly THOUSAND SONS PSYKER model is within 6\" of this model, each time that model Channels the Warp, add 1 to the Psychic test result. This is not cumulative with any other modifiers to the Psychic test result."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "MUTALITH",
+      "VORTEX",
+      "BEAST",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Scarab Occult Terminators",
+    "stats": {
+      "M": "5\"",
+      "T": "5",
+      "Sv": "2+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Heavy warpflamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hellfyre missile rack",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Malefic Curse anti-infantry 4+ devastating wounds psychic",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Soulreaper cannon devastating wounds",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Force weapon psychic",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Prosperine khopesh",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Rites of Coalescence",
+        "description": "While this unit contains one or more PSYKER models, each time an attack targets this unit, subtract 1 from the Wound roll."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "TERMINATOR",
+      "CHAOS",
+      "TZEENTCH",
+      "RUBRICAE",
+      "SCARAB",
+      "OCCULT",
+      "PSYKER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Screamers",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Lamprey bite anti-monster 4+ anti-vehicle 4+",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Slashing Dive",
+        "description": "In your Movement phase, after this unit ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "BEAST",
+      "FLY",
+      "CHAOS",
+      "DAEMON",
+      "TZEENTCH",
+      "SUMMONED",
+      "SCREAMERS",
+      "SCINTILLATING",
+      "LEGIONS"
+    ]
+  },
+  {
+    "name": "Sekhetar Robots",
+    "stats": {
+      "M": "8\"",
+      "T": "6",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Heavy warpflamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hellfyre missile rack",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Pyreflux meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Warpflame projector ignores cover torrent",
+        "range": "12\"",
+        "A": "D3",
+        "BS_WS": "N/A",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power claw",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Prophetic Sentinels",
+        "description": "Once per battle round, you can target this unit with the Fire Overwatch or Heroic Intervention Stratagem for 0CP."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "SEKHETAR",
+      "ROBOTS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Tzaangor Enlightened",
+    "stats": {
+      "M": "10\"",
+      "T": "4",
+      "Sv": "5+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Autopistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Chainsword precision",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Divining spear lance precision",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Prophesied Doom",
+        "description": "Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it, then roll one D6 for each model in this unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "FLY",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "TZAANGOR",
+      "ENLIGHTENED",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Tzaangor Enlightened with Fatecaster Greatbows",
+    "stats": {
+      "M": "10\"",
+      "T": "4",
+      "Sv": "5+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Fatecaster greatbow ignores cover lethal hits precision",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Malign Trickery",
+        "description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "FLY",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "TZAANGOR",
+      "ENLIGHTENED",
+      "TZAANGOR",
+      "ENLIGHTENED",
+      "FATECASTER",
+      "GREATBOWS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Tzaangors",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Autopistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Chainsword",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Tzaangor blades",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ambushing Hunters",
+        "description": "At the end of your opponent’s turn, if this unit is more than 6\" horizontally away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+      },
+      {
+        "name": "Brayhorn",
+        "description": "You can re-roll Advance and Charge rolls made for the bearer’s unit."
+      },
+      {
+        "name": "Herd Banner",
+        "description": "While the bearer’s unit is within range of one or more objective markers you control, improve the Leadership characteristic of models in the bearer’s unit by 1."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHAOS",
+      "TZEENTCH",
+      "MUTANT",
+      "TZAANGORS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Cerberus",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Cerberus neutron pulse array twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+3",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer torrent ignores cover",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Atomantic Arc-reactor",
+        "description": "Each time this unit shoots its Cerberus neutron pulse array in your Shooting phase, provided it Remained Stationary this turn, that weapon has the [LETHAL HITS] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "CERBERUS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Chaos Thunderhawk",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Hellstrike missile battery anti-fly 4+",
+        "range": "72\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderhawk heavy cannon blast",
+        "range": "48\"",
+        "A": "D6+6",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Turbo-laser destructor blast",
+        "range": "96\"",
+        "A": "D3+1",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-4",
+        "D": "D6+6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Aerial Assault",
+        "description": "Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      },
+      {
+        "name": "Thunderhawk Cluster Bombs",
+        "description": "Each time the bearer ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "FLY",
+      "AIRCRAFT",
+      "TRANSPORT",
+      "CHAOS",
+      "THUNDERHAWK",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Deredeo Dreadnought",
+    "stats": {
+      "M": "6\"",
+      "T": "9",
+      "Sv": "2+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Aiolos missile launcher blast",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Anvilus autocannon battery twin-linked",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Arachnus heavy lascannon battery",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Boreas air defence missiles anti-fly 2+",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Hellfire plasma cannonade – standard",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hellfire plasma cannonade – supercharge hazardous",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy flamer ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite falconet battery devastating wounds",
+        "range": "30\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured feet",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Deredeo Strike",
+        "description": "Each time this model makes a ranged attack that targets a unit that is not Below Half-strength, you can re-roll the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "DREADNOUGHT",
+      "DEREDEO",
+      "DREADNOUGHT",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Falchion",
+    "stats": {
+      "M": "9\"",
+      "T": "13",
+      "Sv": "2+",
+      "W": "24",
+      "Ld": "6+",
+      "OC": "8"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Laser destroyer heavy",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Quad lascannon",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Falchion volcano cannon blast twin-linked",
+        "range": "120\"",
+        "A": "D3+1",
+        "BS_WS": "3+",
+        "S": "24",
+        "AP": "-5",
+        "D": "12",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy flamer ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titan-killer",
+        "description": "Each time this model makes a ranged attack with its twin Falchion volcano cannon that targets a MONSTER or VEHICLE unit, that attack has the [DEVASTATING WOUNDS] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "FALCHION",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Fellblade",
+    "stats": {
+      "M": "9\"",
+      "T": "13",
+      "Sv": "2+",
+      "W": "24",
+      "Ld": "6+",
+      "OC": "8"
+    },
+    "weapons": [
+      {
+        "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Demolisher cannon blast",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Fellblade accelerator cannon – AP shells",
+        "range": "72\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Fellblade accelerator cannon – HE shells blast",
+        "range": "72\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Laser destroyer heavy",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Quad heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Quad lascannon",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy flamer ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Rolling Fortress",
+        "description": "Each time a ranged attack is allocated to a model from your army, if that model is not fully visible to every model in the attacking unit because of this Fellblade model, that model has the Benefit of Cover against that attack."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "FELLBLADE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Fire Raptor Gunship",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Quad heavy bolter twin-linked sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin autocannon twin-linked",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin avenger bolt cannon twin-linked",
+        "range": "36\"",
+        "A": "10",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin hellstrike launcher anti-fly 2+ twin-linked",
+        "range": "72\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Strafing Run",
+        "description": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "CHAOS",
+      "TZEENTCH",
+      "FIRE",
+      "RAPTOR",
+      "GUNSHIP",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Hell Blade",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Twin autocannon twin-linked",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Interceptor",
+        "description": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "AIRCRAFT",
+      "FLY",
+      "TZEENTCH",
+      "HELL",
+      "BLADE",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Hell Talon",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Autocannon",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bomb Rack",
+        "description": "Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "AIRCRAFT",
+      "FLY",
+      "TZEENTCH",
+      "HELL",
+      "TALON",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Kratos",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Autocannon",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Combi-weapon ANTI-INFANTRY 4+ DEVASTATING WOUNDS RAPID FIRE 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Havoc launcher blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy bolter SUSTAINED HITS 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer IGNORES COVER TORRENT",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Kratos battle cannon – AP heavy",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-4",
+        "D": "D6+3",
+        "abilities": ""
+      },
+      {
+        "name": "Kratos battle cannon – HE blast",
+        "range": "36\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannons",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Melta blast-gun melta 2",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta MELTA 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin boltgun twin-linked",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite caliver devastating wounds",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite cardanelle devastating wounds",
+        "range": "36\"",
+        "A": "9",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite culverin devastating wounds",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Line-breaker",
+        "description": "When making ranged attacks, this model can target enemy units within Engagement Range of it with Blast weapons (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "KRATOS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Land Raider Achilles",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Quad launcher – shatter shells",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Quad launcher – thunderfire shells blast indirect fire",
+        "range": "60\"",
+        "A": "D6+4",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin multi-melta melta 2 twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin volkite culverin devastating wounds twin-linked",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Assault Ramp",
+        "description": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TRANSPORT",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "LAND",
+      "RAIDER",
+      "ACHILLES",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Land Raider Proteus",
+    "stats": {
+      "M": "12\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter twin-linked sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy flamer ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Assault Ramp",
+        "description": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      },
+      {
+        "name": "Explorator Augury Web",
+        "description": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this bearer, but the bearer must halve its Transport Capacity."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TRANSPORT",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "LAND",
+      "RAIDER",
+      "PROTEUS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Leviathan Dreadnought",
+    "stats": {
+      "M": "8\"",
+      "T": "10",
+      "Sv": "2+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Cyclonic melta lance melta 2",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Grav-flux bombard anti-vehicle 2+ blast",
+        "range": "24\"",
+        "A": "2D3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Storm cannon twin-linked",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin volkite caliver devastating wounds twin-linked",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured feet",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Leviathan siege claw",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Leviathan siege drill anti-vehicle 3+",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Duty Eternal",
+        "description": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "DREADNOUGHT",
+      "LEVIATHAN",
+      "DREADNOUGHT",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Mastodon",
+    "stats": {
+      "M": "9\"",
+      "T": "14",
+      "Sv": "2+",
+      "W": "30",
+      "Ld": "6+",
+      "OC": "12"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Siege melta array melta 2",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Skyreaper battery anti-fly 4+",
+        "range": "48\"",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite culverin devastating wounds",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Inviolable Transport",
+        "description": "Once per battle round, when an attack is allocated to this model, you can change the Damage characteristic of that attack to 0."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "CHAOS",
+      "TZEENTCH",
+      "TRANSPORT",
+      "SMOKE",
+      "MASTODON",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Rapier Carrier",
+    "stats": {
+      "M": "3\"",
+      "T": "6",
+      "Sv": "2+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Boltgun",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Graviton cannon anti-vehicle 2+ blast heavy",
+        "range": "36\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Laser destroyer heavy",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Quad heavy bolter heavy twin-linked sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Quad launcher – shatter shells heavy",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Quad launcher – thunderfire shells blast heavy indirect fire",
+        "range": "60\"",
+        "A": "D6+4",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Powerful Volley",
+        "description": "Each time this model shoots in your Shooting phase, provided it Remained Stationary this turn, all [HEAVY] weapons equipped by models in this unit have the [LETHAL HITS] ability."
+      }
+    ],
+    "keywords": [
+      "ARTILLERY",
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "RAPIER",
+      "CARRIER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Relic Contemptor Dreadnought",
+    "stats": {
+      "M": "6\"",
+      "T": "9",
+      "Sv": "2+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Combi-bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Conversion beam cannon conversion sustained hits d3",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Cyclone missile launcher – frag BLAST",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Cyclone missile launcher – krak",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Graviton blaster anti-vehicle 2+",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin autocannon TWIN-LINKED",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter TWIN-LINKED SUSTAINED HITS 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon TWIN-LINKED",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer IGNORES COVER TORRENT",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy plasma cannon – standard blast",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy plasma cannon – supercharge blast hazardous",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Kheres-pattern assault cannon devastating wounds",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta MELTA 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma blaster – standard",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma blaster – supercharge HAZARDOUS",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin volkite culverin devastating wounds twin-linked",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured feet",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dreadnought chainfist anti-vehicle 3+",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Dreadnought combat weapon",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Even In Death I Serve",
+        "description": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHAOS",
+      "TZEENTCH",
+      "DREADNOUGHT",
+      "RELIC",
+      "CONTEMPTOR",
+      "DREADNOUGHT",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sicaran Battle Tank",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Herakles-pattern autocannon rapid fire 2",
+        "range": "48\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Armoured Spearhead",
+        "description": "Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker you do not control, you can re-roll the Hit roll instead."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "SICARAN",
+      "BATTLE",
+      "TANK",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sicaran Punisher",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Punisher rotary cannon devastating wounds",
+        "range": "36\"",
+        "A": "18",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Rotating Death",
+        "description": "This model’s Punisher rotary cannon has the [SUSTAINED HITS 1] ability when targeting INFANTRY units."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "SICARAN",
+      "PUNISHER",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sicaran Venator",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Venator neutron laser heavy",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D3+3",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ferocious Assault",
+        "description": "Each time this model makes a ranged attack that targets the closest eligible MONSTER or VEHICLE unit, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "SICARAN",
+      "VENATOR",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Sokar-pattern Stormbird",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Hellstrike missile battery anti-fly 3+",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "9",
+        "BS_WS": "4+",
+        "S": "9",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Aerial Assault",
+        "description": "Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "FLY",
+      "AIRCRAFT",
+      "TRANSPORT",
+      "CHAOS",
+      "TZEENTCH",
+      "SOKAR-PATTERN",
+      "STORMBIRD",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Spartan",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer torrent ignores cover",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Laser destroyer heavy",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Quad lascannon",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy flamer ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Assault Ramp",
+        "description": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "TRANSPORT",
+      "SMOKE",
+      "SPARTAN",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Storm Eagle Gunship",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin hellstrike launcher anti-fly 2+ twin-linked",
+        "range": "72\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin multi-melta melta 2 twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Typhoon missile launcher – frag blast",
+        "range": "48\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Typhoon missile launcher – krak",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Vengeance launcher blast",
+        "range": "48\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Armoured Resilience",
+        "description": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "TRANSPORT",
+      "CHAOS",
+      "TZEENTCH",
+      "STORM",
+      "EAGLE",
+      "GUNSHIP",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Typhon",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Dreadhammer siege cannon blast",
+        "range": "24\"",
+        "A": "D6+6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy bolter sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer torrent ignores cover",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Multi-melta melta 2",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Sunderer of Fortresses",
+        "description": "Each time this model makes an attack that targets a VEHICLE, improve the Strength and Damage characteristic of that attack by 1 (if that attack targets a FORTIFICATION unit, improve the Strength and Damage characteristics of that attack by 2 instead)."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "CHAOS",
+      "TZEENTCH",
+      "SMOKE",
+      "TYPHON",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Whirlwind Scorpius",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "11",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Hunter-killer missile one shot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scorpius multi-launcher blast indirect fire",
+        "range": "48\"",
+        "A": "2D3+3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Storm bolter rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured tracks",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Pinning Bombardment",
+        "description": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its Scorpius multi-launcher scored a hit against an enemy INFANTRY unit, that unit must take a Battle-shock test."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "SMOKE",
+      "CHAOS",
+      "TZEENTCH",
+      "WHIRLWIND",
+      "SCORPIUS",
+      "THOUSAND",
+      "SONS"
+    ]
+  },
+  {
+    "name": "Xiphon Interceptor",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Twin lascannon twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Xiphon missile battery anti-fly 2+",
+        "range": "60\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Interceptor",
+        "description": "Each time this model makes a ranged attack that targets a unit that can Fly, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "CHAOS",
+      "TZEENTCH",
+      "XIPHON",
+      "INTERCEPTOR",
+      "THOUSAND",
+      "SONS"
+    ]
+  }
+]

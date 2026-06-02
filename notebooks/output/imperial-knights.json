@@ -1,0 +1,2669 @@
+[
+  {
+    "name": "Knight Destrier",
+    "stats": {
+      "M": "12\"",
+      "T": "10",
+      "Sv": "3+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "8"
+    },
+    "weapons": [
+      {
+        "name": "Chastiser gatling cannon assault",
+        "range": "24\"",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Frag bombard assault blast rapid fire d6+3",
+        "range": "24\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber assault rapid fire 3",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bellatus reaper chainsword – strike",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D3+3",
+        "abilities": ""
+      },
+      {
+        "name": "Bellatus reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thundershock spear – strike lance",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D3+3",
+        "abilities": ""
+      },
+      {
+        "name": "Thundershock spear – sweep lance",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ram Jets",
+        "description": "Each time this unit is selected to make a Normal or Advance move, until the end of the phase, add D3\" to the Move characteristic of this model. Thundercharge: If this model is equipped with a thundershock spear and a bellatus reaper chainsword, add 2 to the Attacks characteristic of melee weapons equipped by this model. Saturation Fire: Each time this model makes a ranged attack that targets a unit within range of one or more objective markers, that attack has the [IGNORES COVER] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "BELLATUS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "DESTRIER",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Canis Rex",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Las-impulsor – high intensity blast sustained hits 1",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Las-impulsor – low intensity blast sustained hits 1",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "2+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris multi-laser sustained hits 1",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Freedom’s Hand – strike sustained hits 1",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "20",
+        "AP": "-3",
+        "D": "9",
+        "abilities": ""
+      },
+      {
+        "name": "Freedom’s Hand – sweep sustained hits 1",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "2+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Legendary Freeblade",
+        "description": "Once per turn, when you target this model with a stratagem, you may reduce the CP cost of that use of that stratagem by 1CP.Chainbreaker: Once per battle, at the start of any phase, you can select one friendly IMPERIUM unit that is Battle-shocked and within 12\" of this model. That unit is no longer Battle-shocked."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "IMPERIUM",
+      "CANIS",
+      "REX",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Castellan",
+    "stats": {
+      "M": "8\"",
+      "T": "12",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Plasma decimator – standard blast",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma decimator – supercharge blast hazardous",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Shieldbreaker missile launcher anti-titanic 4+ devastating wounds",
+        "range": "72\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-6",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin meltagun melta 2 twin-linked",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin siegebreaker cannon blast twin-linked",
+        "range": "36\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Volcano lance blast",
+        "range": "72\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-5",
+        "D": "D6+8",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ion Aegis (Aura)",
+        "description": "While a friendly ARMIGER model is within 6\" of this model, each time a ranged attack targets that model, it has the Benefit of Cover against that attack.Titan Hunter: Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, you can re-roll the Damage roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "DOMINUS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "CASTELLAN",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Crusader",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Avenger gatling cannon",
+        "range": "36\"",
+        "A": "18",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Rapid-fire battle cannon blast rapid fire d6+3",
+        "range": "72\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Thermal cannon blast melta 6",
+        "range": "24\"",
+        "A": "2D3",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Crusader’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll.Punishing Salvoes: In your Movement phase, if this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [SUSTAINED HITS 1] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "CRUSADER",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Defender",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Conversion beam obliterator conversion sustained hits d3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma executor – standard blast",
+        "range": "36\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma executor – supercharge blast hazardous",
+        "range": "36\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Phosphor blaster ignores cover rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin incendine combustor ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Defender’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack.Selfless Protector: Each time a ranged attack is allocated to an IMPERIAL KNIGHTS model from your army, if that model is not fully visible to every model in the attacking unit because of this Knight Defender model, that model has the Benefit of Cover and a 4+ invulnerable save against that attack."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "DEFENDER",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Errant",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Thermal cannon blast melta 6",
+        "range": "24\"",
+        "A": "2D3",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Errant’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, you can re-roll Advance rolls made for that model and ranged weapons equipped by that model have the [ASSAULT] ability.Aggressive Assault: Each time this model makes a ranged attack that targets the closest eligible target, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "ERRANT",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Gallant",
+    "stats": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike devastating wounds",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep lethal hits",
+        "range": "Melee",
+        "A": "18",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – strike devastating wounds",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – sweep lethal hits",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "2+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Gallant’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll.Martial Pride: Each time this unit Consolidates, models in it can move an additional 3\" provided your unit can end that move within Engagement Range of one or more enemy units."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "GALLANT",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Paladin",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Rapid-fire battle cannon blast rapid fire d6+3",
+        "range": "72\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Paladin’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, weapons equipped by that model have the [LETHAL HITS] ability, and melee weapons equipped by that model have the [LANCE] ability.Seasoned Noble: Each time this model makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "PALADIN",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Preceptor",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Las-impulsor – high intensity blast",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Las-impulsor – low intensity blast",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris multi-laser",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Mentor (Bondsman)",
+        "description": "Each time a model affected by this ability makes an attack that targets this model’s quarry, you can re-roll the Wound roll.Exemplar of the Code: At the start of the battle, select one unit from your opponent’s army to be this model’s quarry. Each time this model makes an attack that targets its quarry, you can re-roll the Wound roll. Each time this model’s quarry is destroyed, you can select a new unit from your opponent’s army to be its quarry."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "PRECEPTOR",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Valiant",
+    "stats": {
+      "M": "8\"",
+      "T": "12",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Conflagration cannon ignores cover torrent",
+        "range": "18\"",
+        "A": "3D6",
+        "BS_WS": "N/A",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shieldbreaker missile launcher anti-titanic 4+ devastating wounds",
+        "range": "72\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-6",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Thundercoil harpoon blast devastating wounds",
+        "range": "12\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "24",
+        "AP": "-6",
+        "D": "10",
+        "abilities": ""
+      },
+      {
+        "name": "Twin meltagun melta 2 twin-linked",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin siegebreaker cannon blast twin-linked",
+        "range": "36\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ion Aegis (Aura)",
+        "description": "While a friendly ARMIGER model is within 6\" of this model, each time a ranged attack targets that model, it has the Benefit of Cover against that attack.Thundershock: In your Shooting phase, each time you select a target for this model’s thundercoil harpoon, roll one D6 for the target unit and one D6 for each other enemy unit within 6\" of the target unit. On a 4+, the unit being rolled for is struck by arcing energies; after resolving all of this model’s attacks against the target unit, each unit struck by arcing energies suffers D3 mortal wounds."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "DOMINUS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "VALIANT",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Knight Warden",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Avenger gatling cannon",
+        "range": "36\"",
+        "A": "18",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Heavy flamer ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Ironstorm missile pod blast indirect fire",
+        "range": "48\"",
+        "A": "D6+1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Stormspear rocket pod",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Icarus autocannon anti-fly 2+ twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Thunderstrike gauntlet – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Warden’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, weapons equipped by that model have the [SUSTAINED HITS 1] ability, and ranged weapons equipped by that model have the [IGNORES COVER] ability.Thin Their Ranks: Each time this model makes a ranged attack that targets an enemy unit (excluding MONSTERS and VEHICLES), that attack has the [DEVASTATING WOUNDS] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "QUESTORIS",
+      "CHARACTER",
+      "IMPERIUM",
+      "KNIGHT",
+      "WARDEN",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Sir Hekhtur",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "5+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Hekhtur’s pistol pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "IMPERIUM",
+      "SIR",
+      "HEKHTUR",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Skitarii Marshal",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Mechanicus pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Control stave",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Control Edict",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.Servo-skull Uplink: Once per battle, at the start of any phase, you can select one friendly SKITARII unit that is Battle-shocked and within 6\" of this model. That unit is no longer Battle-shocked."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "IMPERIUM",
+      "SKITARII",
+      "MARSHAL",
+      "ADEPTUS",
+      "MECHANICUS"
+    ]
+  },
+  {
+    "name": "Tech-priest Dominus",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "2+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Eradication ray – dissipated",
+        "range": "24\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Eradication ray – focused",
+        "range": "12\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Macrostubber pistol",
+        "range": "12\"",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Phosphor serpenta ignores cover pistol",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite blaster devastating wounds",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Omnissian axe",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lord of the Machine Cult",
+        "description": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability. If that unit has the ELECTRO-PRIESTS keyword, models in that unit have the Feel No Pain 4+ ability instead.Data-spike: At the start of the Fight phase, you can select one enemy VEHICLE unit within Engagement Range of this model’s unit and roll one D6: on a 4+, that enemy unit suffers D6 mortal wounds and, until the end of the phase, the Weapon Skill characteristic of melee weapons equipped by that enemy unit is worsened by 1."
+      }
+    ],
+    "keywords": [
+      "IMPERIUM",
+      "INFANTRY",
+      "CHARACTER",
+      "CULT",
+      "MECHANICUS",
+      "TECH-PRIEST",
+      "DOMINUS",
+      "ADEPTUS",
+      "MECHANICUS"
+    ]
+  },
+  {
+    "name": "Tech-priest Manipulus",
+    "stats": {
+      "M": "6\"",
+      "T": "4",
+      "Sv": "2+",
+      "W": "4",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Magnarail lance heavy",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Transonic cannon devastating wounds torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Omnissian staff",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Galvanic Field",
+        "description": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.Defend the Divine Work: Once per battle, at the start of any phase, this model can use this ability. If it does, until the end of the phase, all models in this model’s unit have a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "IMPERIUM",
+      "INFANTRY",
+      "CHARACTER",
+      "CULT",
+      "MECHANICUS",
+      "TECH-PRIEST",
+      "MANIPULUS",
+      "ADEPTUS",
+      "MECHANICUS"
+    ]
+  },
+  {
+    "name": "Cerastus Knight Acheron",
+    "stats": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Acheron flame cannon ignores cover torrent",
+        "range": "18\"",
+        "A": "2D6",
+        "BS_WS": "N/A",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin heavy bolter sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainfist – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainfist – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Acheron’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do.Searing Flames: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "CERASTUS",
+      "KNIGHT",
+      "ACHERON",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Cerastus Knight Atrapos",
+    "stats": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Atrapos lascutter – low intensity sustained hits 1",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Atrapos lascutter – high intensity sustained hits 1",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Graviton singularity cannon – contained blast",
+        "range": "24\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Graviton singularity cannon – singularity blast devastating wounds hazardous",
+        "range": "24\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Atrapos lascutter – low intensity sustained hits 1",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Atrapos lascutter – high intensity sustained hits 1",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Atrapos’ Duty (Bondsman)",
+        "description": "While a model is affected by this ability, each time that model makes an attack that targets a TITANIC or TOWERING model, you can re-roll the Hit roll and you can re-roll the Wound roll.Macro-extinction Protocols: Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll. If that target is TITANIC or TOWERING, add 1 to the Wound roll as well."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "CERASTUS",
+      "KNIGHT",
+      "ATRAPOS",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Cerastus Knight Castigator",
+    "stats": {
+      "M": "12\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Castigator bolt cannon twin-linked",
+        "range": "36\"",
+        "A": "18",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Tempest warblade – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Tempest warblade – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Castigator’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1.Storm of Bolts: In your Shooting phase, after this model has shot, select one unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "CERASTUS",
+      "KNIGHT",
+      "CASTIGATOR",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Cerastus Knight Lancer",
+    "stats": {
+      "M": "14\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "28",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Cerastus shock lance assault sustained hits 2",
+        "range": "12\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Cerastus shock lance – strike lance",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Cerastus shock lance – sweep",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "2+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lancer’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, it is eligible to declare a charge in a turn in which it Advanced.Shock Charge: You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "CERASTUS",
+      "KNIGHT",
+      "LANCER",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Questoris Knight Magaera",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Lightning cannon sustained hits 2",
+        "range": "48\"",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Phased plasma-fusil rapid fire 2",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin rad cleanser anti-infantry 2+ ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hekaton siege claw – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Hekaton siege claw – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Magaera’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, each time that model makes a ranged attack that targets the closest eligible target, improve the Strength and Armour Penetration characteristics of that attack by 1.Repair Auto-simulacra: At the end of your Command phase, this model regains up to D3 lost wounds."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "QUESTORIS",
+      "KNIGHT",
+      "MAGAERA",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Questoris Knight Styrix",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "3+",
+      "W": "26",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Graviton crusher anti-vehicle 2+ blast",
+        "range": "18\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin rad cleanser anti-infantry 2+ ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite chierovile devastating wounds",
+        "range": "30\"",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Hekaton siege claw – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-3",
+        "D": "8",
+        "abilities": ""
+      },
+      {
+        "name": "Hekaton siege claw – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chainsword – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Styrix’s Duty (Bondsman)",
+        "description": "While a model is affected by this ability, each time that model is selected to shoot or fight, after it has resolved all of its attacks, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test, subtracting one from the test when doing so.Grav-pinned: In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent’s next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "CHARACTER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "QUESTORIS",
+      "KNIGHT",
+      "STYRIX",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Skitarii Rangers",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Mechanicus pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Arc rifle anti-vehicle 4+ devastating wounds rapid fire 1",
+        "range": "30\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Galvanic rifle",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma caliver – standard",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma caliver – supercharge hazardous",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Transuranic arquebus heavy precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Alpha combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Objective Scouted",
+        "description": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+      },
+      {
+        "name": "Enhanced data-tether",
+        "description": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+      },
+      {
+        "name": "Omnispex",
+        "description": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "IMPERIUM",
+      "SKITARII",
+      "RANGERS",
+      "ADEPTUS",
+      "MECHANICUS"
+    ]
+  },
+  {
+    "name": "Skitarii Vanguard",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Mechanicus pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Arc rifle anti-vehicle 4+ devastating wounds rapid fire 1",
+        "range": "30\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma caliver – standard",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Plasma caliver – supercharge hazardous",
+        "range": "30\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Radium carbine anti-infantry 4+",
+        "range": "18\"",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Transuranic arquebus heavy precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Alpha combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Rad-saturation (Aura)",
+        "description": "While an enemy unit (excluding VEHICLE units) is within 3\" of this unit, subtract 1 from the Objective Control characteristic of models in that unit."
+      },
+      {
+        "name": "Enhanced data-tether",
+        "description": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+      },
+      {
+        "name": "Omnispex",
+        "description": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "IMPERIUM",
+      "SKITARII",
+      "VANGUARD",
+      "ADEPTUS",
+      "MECHANICUS"
+    ]
+  },
+  {
+    "name": "Armiger Helverin",
+    "stats": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "14",
+      "Ld": "7+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Armiger autocannon",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Suppression Protocols",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks made with an Armiger autocannon. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "IMPERIUM",
+      "ARMIGER",
+      "HELVERIN",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Armiger Warglaive",
+    "stats": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "14",
+      "Ld": "7+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Meltagun melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Questoris heavy stubber rapid fire 3",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Thermal spear melta 4",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chain-cleaver – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper chain-cleaver – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Impetuous Glory",
+        "description": "Each time this model makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic of this model’s reaper chain-cleaver - strike profile, and add 2 to the Attacks characteristic of this model’s reaper chain-cleaver - sweep profile."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "IMPERIUM",
+      "ARMIGER",
+      "WARGLAIVE",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Acastus Knight Asterius",
+    "stats": {
+      "M": "8\"",
+      "T": "13",
+      "Sv": "2+",
+      "W": "30",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Asterius volkite culverin devastating wounds",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Karacnos mortar battery anti-infantry 2+ blast ignores cover indirect fire",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin conversion beam cannon conversion sustained hits d3 twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-2",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Sunderer of Fortresses",
+        "description": "Each time this model makes an attack that targets a VEHICLE, improve the Strength and Damage characteristics of that attack by 1. If that attack targets a FORTIFICATION, improve the Strength and Damage characteristics of that attack by 2 instead."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "ACASTUS",
+      "IMPERIUM",
+      "KNIGHT",
+      "ASTERIUS",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Acastus Knight Porphyrion",
+    "stats": {
+      "M": "8\"",
+      "T": "13",
+      "Sv": "2+",
+      "W": "30",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Acastus autocannon",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Acastus ironstorm missile pod blast heavy indirect fire",
+        "range": "48\"",
+        "A": "D6+6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Helios defence missiles anti-fly 2+ heavy",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Lascannon",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin magna lascannon blast twin-linked",
+        "range": "72\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-4",
+        "D": "D6+6",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bastion of Firepower",
+        "description": "Each time this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [LETHAL HITS] ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "TITANIC",
+      "TOWERING",
+      "IMPERIUM",
+      "ACASTUS",
+      "KNIGHT",
+      "PORPHYRION",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  },
+  {
+    "name": "Armiger Moirax",
+    "stats": {
+      "M": "12\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "14",
+      "Ld": "7+",
+      "OC": "6"
+    },
+    "weapons": [
+      {
+        "name": "Conversion beam cannon conversion sustained hits d3",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Graviton pulsar ANTI-VEHICLE 2+ BLAST",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Lightning lock sustained hits 2",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Rad cleanser anti-infantry 2+ ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Volkite veuglaire devastating wounds",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Armoured feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Siege claw",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Protection Protocols",
+        "description": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "IMPERIUM",
+      "ARMIGER",
+      "MOIRAX",
+      "IMPERIAL",
+      "KNIGHTS"
+    ]
+  }
+]

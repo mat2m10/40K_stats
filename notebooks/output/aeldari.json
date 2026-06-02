@@ -1,0 +1,7783 @@
+[
+  {
+    "name": "Asurmen",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Bloody Twins assault pistol",
+        "range": "24\"",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Sword of Asur devastating wounds",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Tactical Acumen",
+        "description": "While this model is leading a unit, in your Shooting phase, after that unit has shot, it can make a Normal move of up to 6\". If it does, until the end of the turn, that unit is not eligible to declare a charge.Hand of Asuryan: Once per battle, when this model is selected to shoot, it can use this ability. If it does, until the end of the phase, its Bloody Twins weapon has a Damage characteristic of 3 and the [ANTI-INFANTRY 5+] and [DEVASTATING WOUNDS] abilities."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "GRENADES",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "ASURMEN",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Autarch",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Death spinner ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon fusion gun assault melta 3",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon fusion pistol assault melta 3 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starshot heavy ignores cover",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starswarm heavy ignores cover",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Banshee blade anti-infantry 3+",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Scorpion chainsword sustained hits 1",
+        "range": "Melee",
+        "A": "7",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Star glaive",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Superlative Strategist",
+        "description": "While this model is leading a unit, you can re-roll Advance rolls made for that unit, and you can re-roll any rolls made for that unit while it is performing an Agile Manoeuvre.Path of Command: Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "GRENADES",
+      "AUTARCH",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Autarch Wayleaper",
+    "stats": {
+      "M": "14\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Death spinner ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon fusion gun assault melta 3",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon fusion pistol assault melta 3 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starshot heavy ignores cover",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starswarm heavy ignores cover",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Banshee blade anti-infantry 3+",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Scorpion chainsword sustained hits 1",
+        "range": "Melee",
+        "A": "7",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Star glaive",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Indomitable Strength of Will",
+        "description": "While this model is leading a unit, each time you spend a Battle Focus token to enable that unit to perform an Agile Manoeuvre, roll one D6: on a 3+, you gain 1 Battle Focus token.Path of Command: Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "GRENADES",
+      "AUTARCH",
+      "WAYLEAPER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Avatar of Khaine",
+    "stats": {
+      "M": "10\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "5"
+    },
+    "weapons": [
+      {
+        "name": "The Wailing Doom sustained hits d3",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "The Wailing Doom – strike",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "The Wailing Doom – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Molten Form",
+        "description": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack.The Bloody-Handed (Aura): While a friendly AELDARI unit is within 6\" of this model, add 1 to Advance and Charge rolls made for that unit."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "DAEMON",
+      "AVATAR",
+      "KHAINE",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Baharroth",
+    "stats": {
+      "M": "14\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Fury of the Tempest assault lethal hits",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shining Blade sustained hits 1",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Cloudstrider",
+        "description": "While this model is leading a unit, at the end of your opponent’s turn, if that unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves. In addition, while this model is leading a unit, when that unit is set up on the battlefield using the Deep Strike ability, in your movement phase, it can use this ability. If it does, that unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models, but until the end of the turn, it is not eligible to declare a charge.’Cry of the Wind: Each time this model is set up on the battlefield, until the end of the turn, each time this model makes a ranged attack, a successful unmodified Hit roll scores a Critical Hit."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "GRENADES",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "BAHARROTH",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Death Jester",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shrieker cannon",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Jester’s blade",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Death is Not Enough",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. That enemy unit must take a Battle-shock test. If one or more of those attacks destroyed a model in that enemy unit, subtract 1 from that test.Cruel Amusement: In your Shooting phase, each time this model is selected to shoot, select one of the abilities below. Until the end of the phase, this model’s shrieker cannon has that ability.[IGNORES COVER][PRECISION][SUSTAINED HITS 3]"
+      },
+      {
+        "name": "Flip Belt",
+        "description": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "DEATH",
+      "JESTER",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Eldrad Ulthran",
+    "stats": {
+      "M": "7\"",
+      "T": "4",
+      "Sv": "6+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Mind War anti-character 4+ precision psychic",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Staff of Ulthamar and witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Diviner of Futures",
+        "description": "At the start of your Command phase, if this model is on the battlefield, you gain 1CP.Doom (Psychic): At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly AELDARI model makes an attack that targets that enemy unit, add 1 to the Wound roll."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "PSYKER",
+      "FARSEER",
+      "ELDRAD",
+      "ULTHRAN",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Farseer",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Eldritch Storm blast psychic",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear assault psychic",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Branching Fates (Psychic)",
+        "description": "While this model is leading a unit, once per phase, you can change the result of one Hit roll, one Wound roll or one Damage roll made for a model in that unit (excluding SUPPORT WEAPON models) to an unmodified 6.Guide (Psychic): At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly AELDARI model makes an attack that targets that enemy unit, add 1 to the Hit roll. Each unit can only be selected for this ability once per turn."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "PSYKER",
+      "FARSEER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Farseer Skyrunner",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "6+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Eldritch Storm blast psychic",
+        "range": "24\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear assault psychic",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Branching Fates (Psychic)",
+        "description": "While this model is leading a unit, once per phase, you can change the result of one Hit roll, one Wound roll or one Damage roll made for a model in that unit to an unmodified 6.Misfortune (Psychic): At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a model in that unit makes an attack, subtract 1 from the Wound roll. Each unit can only be selected for this ability once per turn."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "CHARACTER",
+      "AELDARI",
+      "FLY",
+      "PSYKER",
+      "FARSEER",
+      "FARSEER",
+      "SKYRUNNER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Fuegan",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Searsong – beam assault melta 1 sustained hits 2",
+        "range": "12\"",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Searsong – lance assault melta 6",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Fire Axe",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-4",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Burning Lance",
+        "description": "While this model is leading a unit, add 6\" to the Range characteristic of Melta weapons equipped by models in that unit.Unquenchable Resolve: The first time this model is destroyed, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "GRENADES",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "FUEGAN",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Jain Zar",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Silent Death assault",
+        "range": "12\"",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Blade of Destruction anti-infantry 3+",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Whirling Death",
+        "description": "While this model is leading a unit, each time that unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit and each time a model in that unit makes an Advance move, ignore any vertical distance when determining the total distance that model can be moved during that move.Storm of Silence: Each time this model makes an attack that targets a CHARACTER unit, you can re-roll the Wound roll."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "JAIN",
+      "ZAR",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Kharseth",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Dread of the Deep Void anti-infantry 2+ blast hazardous ignores cover psychic",
+        "range": "24\"",
+        "A": "D6+2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Waystave anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Aethersense (Psychic)",
+        "description": "Enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" of this model.Fury of the Void (Psychic): In your Shooting phase, after this model’s unit has shot, select one enemy unit hit by one or more attacks made with this model’s Dread of the Deep Void. Until the end of the turn, that unit is riven. Each time an AELDARI model from your army makes an attack that targets a riven unit, add 1 to the Strength characteristic of that attack."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "PSYKER",
+      "ANHRATHE",
+      "KHARSETH",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Lhykhis",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Brood Twain ignores cover torrent twin-linked",
+        "range": "12\"",
+        "A": "D6+3",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Spider’s Fangs extra attacks lethal hits",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Weaverender lethal hits",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Empyric Ambush",
+        "description": "While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it used its Flickerjump ability.Whispering Web: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly Aeldari model makes an attack that targets that unit, an unmodified Hit roll of 5+ scores a Critical Hit."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "LHYKHIS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Maugan Ra",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Maugetar devastating wounds ignores cover",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Maugetar",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Harvester of Souls",
+        "description": "While this model is leading a unit, in your Shooting phase, after selecting targets for that unit’s attacks, if every attack targets the same unit, roll one D6 for the target unit and one D6 for every other enemy unit within 3\" of the target unit. On a 5+, the unit being rolled for is struck by explosive debris; after resolving all of that unit’s attacks against the target unit, each unit struck by explosive debris suffers D3 mortal wounds.Face of Death: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test, subtracting 1 from the result."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "ASPECT",
+      "WARRIOR",
+      "PHOENIX",
+      "LORD",
+      "MAUGAN",
+      "RA",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Prince Yriel",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Eye of Wrath assault pistol",
+        "range": "6\"",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Spear of Twilight lance",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "7",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Piratical Hero",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, that attack has the [SUSTAINED HITS 1] ability and add 1 to the Hit roll.Prince of Corsairs: After both players have deployed their armies, if this unit is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield), select up to three AELDARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "ANHRATHE",
+      "PRINCE",
+      "YRIEL",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Shadowseer",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Miststave psychic",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Fog of Dreams (Psychic)",
+        "description": "While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\".Treacherous Illusion (Psychic): Melee weapons equipped by enemy models have the [HAZARDOUS] ability while targeting this model’s unit."
+      },
+      {
+        "name": "Flip Belt",
+        "description": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "PSYKER",
+      "GRENADES",
+      "SHADOWSEER",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Solitaire",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Solitaire weapons precision",
+        "range": "Melee",
+        "A": "9",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Blitz",
+        "description": "Once per battle, in your Movement phase, before this model makes a Normal move, it can use this ability. If it does, until the end of the turn, add 2D6\" to this model’s Move characteristic and add 3 to the Attacks characteristic of this model’s Solitaire weapons.Blur of Movement: This model is eligible to declare a charge in a turn in which it Advanced."
+      },
+      {
+        "name": "Flip Belt",
+        "description": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "SOLITAIRE",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Spiritseer",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Witch staff anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Spiritseer",
+        "description": "While this model is within 3\" of one or more friendly WRAITH CONSTRUCT units, this model has the Lone Operative ability.Spirit Mark (Psychic): Once per turn, in your Movement phase, when this model starts or ends a move, select one friendly WRAITH CONSTRUCT unit within 6\" of this model (excluding TITANIC units) and one enemy unit visible to this model. Until the start of your next Movement phase, weapons equipped by models in that friendly unit have the [SUSTAINED HITS 1] ability while targeting that enemy unit.Tears of Isha (Psychic): In your Command phase, select one friendly WRAITH CONSTRUCT unit within 6\" of this model. If one or more models in that unit are destroyed, you can return one destroyed model to that unit. Otherwise, one model in that unit regains up to D3 lost wounds. Each unit can only be selected for this ability once per turn."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "PSYKER",
+      "SPIRITSEER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "The Visarch",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Asu-var – quicksilver stance sustained hits 2",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Asu-var – duellist stance devastating wounds precision",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Asu-var – mythic stance anti-epic hero 2+ precision",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "-4",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Way of the Blade",
+        "description": "While this model is leadings unit, models in that unit have the Fights First ability.Yvraine’s Champion: While this model is leading a unit, other CHARACTER models attached to that unit have the Feel No Pain 4+ ability."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "THE",
+      "VISARCH",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "The Yncarne",
+    "stats": {
+      "M": "10\"",
+      "T": "10",
+      "Sv": "2+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Swirling soul energy ignores cover psychic torrent",
+        "range": "12\"",
+        "A": "D6+3",
+        "BS_WS": "N/A",
+        "S": "7",
+        "AP": "-1",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Vilith-zhar – strike",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Vilith-zhar – sweep",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-4",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Inevitable Death",
+        "description": "Once in each of your opponent’s turns, if this model is on the battlefield when another friendly AELDARI unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up as close as possible to where that destroyed model was destroyed and not within Engagement Range of one or more enemy units.Ethereal Form: Each time this model destroys an enemy unit, it regains up to D3 lost wounds."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "FLY",
+      "PSYKER",
+      "DAEMON",
+      "THE",
+      "YNCARNE",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Troupe Master",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Fusion pistol assault melta 2 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Harlequin’s special weapon devastating wounds",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Troupe Master’s blade devastating wounds",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Choreographer of War",
+        "description": "While this model is leading a unit, each time a model in that unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". In addition, it does not need to end that move closer to the closest enemy model, provided it ends it as close as possible to the closest enemy unit.Cegorach’s Favour: Each time this model makes a melee attack, you can re-roll a Hit roll of 1 and add 1 to the Wound roll."
+      },
+      {
+        "name": "Flip Belt",
+        "description": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "GRENADES",
+      "TROUPE",
+      "MASTER",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Warlock",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Destructor psychic torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear assault psychic",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Runes of Fortune (Psychic)",
+        "description": "Each time an enemy unit declares a charge, if one or more units with this ability are selected as a target of that charge, subtract 2 from the Charge roll.Psychic Communion (Psychic): Each time this model is selected to shoot, until the end of the phase, add 1 to the Attacks and Strength characteristics of its Destructor weapon for each other friendly AELDARI PSYKER model within 6\" of this model (to a maximum of +2)."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "PSYKER",
+      "WARLOCK",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Ynnari Archon",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Blast pistol pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter pistol anti-infantry 3+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Huskblade anti-infantry 3+",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Overlord",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Wound roll of 1. While that unit is below its Starting Strength, each time a model in that unit makes an attack, you can re-roll the Wound roll instead.Reborn Mastermind: Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+      },
+      {
+        "name": "Shadow Field",
+        "description": "You cannot re-roll invulnerable saving throws made for the bearer. The first time an invulnerable saving throw made for the bearer is failed, until the end of the battle, the bearer has no invulnerable save."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "ARCHON",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Ynnari Succubus",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Blast pistol pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter pistol anti-infantry 3+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Succubus weapons anti-infantry 3+",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Storm of Blades",
+        "description": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.Empowered by Death: At the start of the Fight phase, if this model’s unit is below its Starting Strength, until the end of the phase, models in that unit have the Fights First ability."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "AELDARI",
+      "SUCCUBUS",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Yvraine",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Storm of Whispers anti-infantry 2+ devastating wounds psychic",
+        "range": "12\"",
+        "A": "D6+3",
+        "BS_WS": "2+",
+        "S": "2",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Kha-vir devastating wounds",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Word of the Phoenix (Psychic)",
+        "description": "While this model is leading a unit, in your Command phase, roll one D6: on a 2+, D3+1 destroyed Bodyguard models (excluding SUPPORT WEAPON models) are returned to that unit with their full wounds remaining.Herald of Ynnead: At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, each time a friendly AELDARI model makes an attack that targets that unit, you can re-roll a Wound roll of 1."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "PSYKER",
+      "YVRAINE",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Amallyn Shadowguide",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Ranger long rifle heavy precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Power blade",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "The Path Least Travelled",
+        "description": "If your army includes this model, after both players have deployed their armies and determined who has the first turn, you can select one RANGERS or SHROUD RUNNERS unit from your army and redeploy that unit. When doing so, that unit can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.Path of the Outcast: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model, if this model is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "GRENADES",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "AMALLYN",
+      "SHADOWGUIDE",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Autarch Skyrunner",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Dragon fusion gun assault melta 3",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Laser lance assault",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Laser lance lance",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Banshee blade",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Ride the Wind",
+        "description": "While this model is leading a unit, each time that unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit.Path of Command: Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "CHARACTER",
+      "FLY",
+      "AELDARI",
+      "AUTARCH",
+      "AUTARCH",
+      "SKYRUNNER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Bonesinger",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Psytronome shaper psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Way of the Shaper (Psychic)",
+        "description": "While this model is leading a unit, WRAITH CONSTRUCT models in that unit have the Feel No Pain 6+ ability.Bonesinger: While this model is within 3\" of one or more friendly WRAITH CONSTRUCT or ASURYANI VEHICLE units, unless it is leading a unit, this model has the Lone Operative ability.Psytronome Shaper: In your Command phase, you can select one friendly WRAITH CONSTRUCT or ASURYANI VEHICLE model within 3\" of this model. That WRAITH CONSTRUCT or ASURYANI VEHICLE model regains up to D3 lost wounds."
+      }
+    ],
+    "keywords": [
+      "CHARACTER",
+      "INFANTRY",
+      "PSYKER",
+      "AELDARI",
+      "BONESINGER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Illic Nightspear",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Voidbringer devastating wounds heavy precision",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari power sword",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bringer of the True Death",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Wound roll.Hunter Unseen: This model’s unit can only be selected as the target of a ranged attack if the attacking model is within 12\"."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "ILLIC",
+      "NIGHTSPEAR",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Irillyth",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Spear of Starlight",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Spear of Starlight",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Reaper of Souls",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.Shadow of Death (Aura): While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "FLY",
+      "JUMP",
+      "PACK",
+      "PHOENIX",
+      "LORD",
+      "AELDARI",
+      "IRILLYTH",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Karandras",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "2+",
+      "W": "5",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Arhra’s Bane assault pistol",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "5",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Arhra’s Bane sustained hits 1",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Isirmathil sustained hits 1",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Shadow Hunter",
+        "description": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll.Sustained Assault: Each time this model makes a melee attack, if it made a Charge move this turn, a successful unmodified Hit roll of 4+ scores a Critical Hit."
+      },
+      {
+        "name": "The Scorpion’s Bite",
+        "description": "Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the TITANIC keyword."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "PHOENIX",
+      "LORD",
+      "AELDARI",
+      "KARANDRAS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Prince Yriel (Legendary)",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "4",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "The Eye of Wrath assault",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "The Spear of Twilight",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Hero of Iyanden",
+        "description": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.Prince of Corsairs: If your army includes this model, after both players have deployed their armies, select up to three AELDARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "CHARACTER",
+      "EPIC",
+      "HERO",
+      "AELDARI",
+      "PRINCE",
+      "YRIEL",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Corsair Voidreavers",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder assault torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken rifle assault rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithcannon",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power sword",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Reavers of the Void",
+        "description": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack is within range of an objective marker, you can re-roll the Hit roll instead."
+      },
+      {
+        "name": "Mistshield",
+        "description": "The bearer has a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "AELDARI",
+      "GRENADES",
+      "ANHRATHE",
+      "CORSAIR",
+      "VOIDREAVERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Guardian Defenders",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Fleet of Foot",
+        "description": "This unit can perform the Fade Back Agile Manoeuvre without spending a Battle Focus token to do so. It can do so even if other units have done so in the same phase, and doing so does not prevent other units from performing the same Agile Manoeuvre in the same phase.Crewed Platform: When the last Guardian Defender model in this unit is destroyed, any remaining Heavy Weapon Platform models in this unit are also destroyed."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "AELDARI",
+      "GRENADES",
+      "GUARDIANS",
+      "GUARDIAN",
+      "DEFENDERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Storm Guardians",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fusion gun assault melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power sword",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Stormblades",
+        "description": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase.Crewed Platform: When the last Storm Guardian model in this unit is destroyed, any remaining Serpent’s Scale Platform models in this unit are also destroyed."
+      },
+      {
+        "name": "Serpent Shield",
+        "description": "Models in the bearer’s unit have a 5+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "AELDARI",
+      "GRENADES",
+      "GUARDIANS",
+      "STORM",
+      "GUARDIANS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Ynnari Kabalite Warriors",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Blast pistol pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Dark lance heavy",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder assault torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter cannon anti-infantry 3+ heavy sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter pistol anti-infantry 3+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter rifle anti-infantry 3+ assault",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Sybarite weapon anti-infantry 3+",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Sadistic Raiders",
+        "description": "At the end of your Command phase, if you control an objective marker that this unit (or a TRANSPORT it is embarked within) is within range of, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+      },
+      {
+        "name": "Phantasm Grenade Launcher",
+        "description": "The bearer’s unit has the Grenades keyword."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "AELDARI",
+      "KABALITE",
+      "WARRIORS",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Ynnari Wyches",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Blast pistol pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter pistol anti-infantry 3+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hekatarii blade",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "No Escape",
+        "description": "Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "BATTLELINE",
+      "AELDARI",
+      "GRENADES",
+      "WYCHES",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Starweaver",
+    "stats": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Rapid Embarkation",
+        "description": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly HARLEQUINS INFANTRY unit that has 6 or fewer models that is wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "SMOKE",
+      "FLY",
+      "STARWEAVER",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Wave Serpent",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "13",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin missile launcher – starshot twin-linked",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin missile launcher – sunburst blast twin-linked",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin bright lance twin-linked",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin scatter laser sustained hits 1 twin-linked",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken cannon lethal hits twin-linked",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin starcannon twin-linked",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Wave Serpent Shield",
+        "description": "Each time a ranged attack targets this model, if the Strength characteristic of that attack is greater than the Toughness characteristic of this model, subtract 1 from the Wound roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "FLY",
+      "WAVE",
+      "SERPENT",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Ynnari Raider",
+    "stats": {
+      "M": "14\"",
+      "T": "8",
+      "Sv": "4+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Dark lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Disintegrator cannon",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Bladevanes",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Aethersails",
+        "description": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "FLY",
+      "RAIDER",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Ynnari Venom",
+    "stats": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Splinter cannon anti-infantry 3+ sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin splinter rifle anti-infantry 3+ assault rapid fire 1 twin-linked",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bladevanes",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lithe Embarkation",
+        "description": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly YNNARI INFANTRY unit that only includes models from the units listed in this unit’s Transport section, that has 6 or fewer models and that is wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "TRANSPORT",
+      "DEDICATED",
+      "TRANSPORT",
+      "FLY",
+      "VENOM",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Webway Gate",
+    "stats": {
+      "M": "-",
+      "T": "12",
+      "Sv": "3+",
+      "W": "14",
+      "Ld": "6+",
+      "OC": "0"
+    },
+    "weapons": [],
+    "abilities": [
+      {
+        "name": "Arcane Cover",
+        "description": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack.Webway Strike: Each time a friendly AELDARI unit arrives from Strategic Reserves, you can choose to set it up anywhere on the battlefield that is wholly within 6\" of this FORTIFICATION. If you do, that AELDARI unit can be set up within 9\" of enemy models, and can be set up within Engagement Range of enemy models. If an AELDARI unit is set up within Engagement Range of any enemy models in this way, it counts as having made a Charge move this turn and is eligible to fight this turn.Fortification: While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army: That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll. Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+      }
+    ],
+    "keywords": [
+      "FORTIFICATION",
+      "AELDARI",
+      "WEBWAY",
+      "GATE",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Corsair Skyreavers",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Blast pistol assault pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fusion gun assault melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder assault torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Corsair blade",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Raid and Run",
+        "description": "At the end of the Fight phase, if this unit was eligible to fight this phase, and is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D3+3\". Otherwise, if this unit was eligible to fight this phase, this unit can make a Fall Back move of up to D3+3\"."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "ANHRATHE",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "GRENADES",
+      "CORSAIR",
+      "SKYREAVERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Corsair Voidscarred",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Executioner anti-infantry 2+ psychic",
+        "range": "18\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Fusion pistol assault melta 2 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Long rifle heavy precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder assault torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken rifle assault rapid fire 1",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithcannon",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Paired Hekatarii blades twin-linked",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power sword",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Witch staff anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "0",
+        "D": "D3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Piratical Raiders",
+        "description": "At the start of the battle, select one unit from your opponent’s army. Weapons equipped by models in this unit have the [LETHAL HITS] and [PRECISION] abilities while targeting that unit."
+      },
+      {
+        "name": "Channeller Stones",
+        "description": "Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0."
+      },
+      {
+        "name": "Faolchú",
+        "description": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+      },
+      {
+        "name": "Mistshield",
+        "description": "The bearer has a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "GRENADES",
+      "ANHRATHE",
+      "CORSAIR",
+      "VOIDSCARRED",
+      "PSYKER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Crimson Hunter",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Pulse laser",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Skyhunter",
+        "description": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll and add 1 to the Wound roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "AIRCRAFT",
+      "ASPECT",
+      "WARRIOR",
+      "CRIMSON",
+      "HUNTER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "D-cannon Platform",
+    "stats": {
+      "M": "7\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "5",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "D-cannon blast devastating wounds indirect fire",
+        "range": "24\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Support Weapon",
+        "description": "Each time an attack targets this model’s unit, if that unit contains one or more other models, until that attack is resolved, this model has a Toughness characteristic of 3.Structural Collapse: Each time this model makes an attack with its D-cannon, re-roll a Damage roll of 1. If that attack targets a TITANIC unit, you can re-roll the Damage roll instead."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "SUPPORT",
+      "WEAPON",
+      "D-CANNON",
+      "PLATFORM",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Dark Reapers",
+    "stats": {
+      "M": "6\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Missile launcher – starshot ignores cover",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast ignores cover",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starshot ignores cover",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Reaper launcher – starswarm ignores cover",
+        "range": "48\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon ignores cover lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Tempest launcher blast indirect fire",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Inescapable Accuracy",
+        "description": "Each time a model in this unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and any or all modifiers to the Hit roll."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "ASPECT",
+      "WARRIORS",
+      "DARK",
+      "REAPERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Dire Avengers",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Avenger shuriken catapult assault",
+        "range": "18\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Diresword",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power glaive",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bladestorm",
+        "description": "Ranged weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within half range."
+      },
+      {
+        "name": "Shimmershield",
+        "description": "The bearer has a 4+ invulnerable save."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "GRENADES",
+      "ASPECT",
+      "WARRIORS",
+      "DIRE",
+      "AVENGERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Falcon",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "7+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Pulse laser",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Fire Support",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "TRANSPORT",
+      "FLY",
+      "FALCON",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Fire Dragons",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Dragon fusion gun assault melta 3",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon fusion pistol assault melta 3 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon’s breath flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6+2",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Exarch’s Dragon fusion gun assault melta 6",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Firepike assault melta 3",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dragon axe",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Assured Destruction",
+        "description": "In your Shooting phase, each time a model in this unit makes a ranged attack that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll, you can re-roll the Wound roll and you can re-roll the Damage roll."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "GRENADES",
+      "ASPECT",
+      "WARRIORS",
+      "FIRE",
+      "DRAGONS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Fire Prism",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "7+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Prism cannon – dispersed pulse blast",
+        "range": "60\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Prism cannon – focused lances linked fire",
+        "range": "60\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Crystal Matrix",
+        "description": "Each time this model is selected to shoot, you can re-roll one Hit roll and you can re-roll one Wound roll when resolving those attacks."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "FIRE",
+      "PRISM",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Hemlock Wraithfighter",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Heavy D-scythe blast",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-4",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Mindshock Pod (Aura, Psychic)",
+        "description": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "AIRCRAFT",
+      "PSYKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "HEMLOCK",
+      "WRAITHFIGHTER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Howling Banshees",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Triskele anti-infantry 3+ assault",
+        "range": "12\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Banshee blade anti-infantry 3+",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Executioner anti-infantry 3+",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "2+",
+        "S": "6",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Mirrorswords anti-infantry 3+",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Triskele anti-infantry 3+",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "2+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Acrobatic",
+        "description": "This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "ASPECT",
+      "WARRIORS",
+      "HOWLING",
+      "BANSHEES",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Night Spinner",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "7+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Doomweaver blast indirect fire twin-linked",
+        "range": "48\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Monofilament Web",
+        "description": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its doomweaver scored a hit against an enemy unit, until the start of your next turn, that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for it."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "NIGHT",
+      "SPINNER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Rangers",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "1",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Long rifle heavy precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Path of the Outcast",
+        "description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, it can make a Normal move of up to D6\"."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "RANGERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Shadow Weaver Platform",
+    "stats": {
+      "M": "7\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "5",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shadow weaver blast indirect fire",
+        "range": "48\"",
+        "A": "D6+2",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Support Weapon",
+        "description": "Each time an attack targets this model’s unit, if that unit contains one or more other models, until that attack is resolved, this model has a Toughness characteristic of 3.Monofilament Snare: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with its shadow weaver. Until the start of your next turn, that enemy unit is snared. While a unit is snared, each time that unit makes a Normal, Advance or Fall Back move, roll one D6 for each model in that unit: for each 1, that unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "SUPPORT",
+      "WEAPON",
+      "SHADOW",
+      "WEAVER",
+      "PLATFORM",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Shining Spears",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Laser lance assault",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Star lance assault",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Laser lance anti-monster 3+ anti-vehicle 3+ lance",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Paragon sabre",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Star lance anti-monster 3+ anti-vehicle 3+ lance",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Extreme Mobility",
+        "description": "Each time this unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance models in this unit can be moved during that move."
+      },
+      {
+        "name": "Shimmershield",
+        "description": "The bearer has a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "ASPECT",
+      "WARRIORS",
+      "SHINING",
+      "SPEARS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Shroud Runners",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Long rifle precision",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "2+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Target Acquisition",
+        "description": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks made with a long rifle. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "SHROUD",
+      "RUNNERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Skyweavers",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "4+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Skyweaver haywire cannon anti-vehicle 4+ devastating wounds",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Star bolas",
+        "range": "12\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Zephyrglaive",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Acrobatic Grace",
+        "description": "Each time an attack targets this unit, subtract 1 from the Hit roll."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "SMOKE",
+      "SKYWEAVERS",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Starfangs",
+    "stats": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Disintegrator cannon assault",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starfang grenade launcher assault blast",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Hallucinogen Grenades",
+        "description": "At the start of your opponent’s Shooting phase, this unit can use this ability. If it does, select one AELDARI INFANTRY unit from your army visible to and within 36\" of this unit: until the end of the phase, that unit has the Stealth ability."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "ANHRATHE",
+      "FLY",
+      "SMOKE",
+      "GRENADES",
+      "STARFANGS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Striking Scorpions",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Chainsabres assault pistol twin-linked",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Biting blade sustained hits 1",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Chainsabres sustained hits 1 twin-linked",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scorpion chainsword sustained hits 1",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scorpion’s claw",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Mandiblasters",
+        "description": "Each time a model in this unit makes a melee attack, if it made a Charge move this turn, an unmodified Hit roll of 5+ scores a Critical Hit."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "ASPECT",
+      "WARRIORS",
+      "STRIKING",
+      "SCORPIONS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Swooping Hawks",
+    "stats": {
+      "M": "14\"",
+      "T": "3",
+      "Sv": "4+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Exarch’s lasblaster assault lethal hits",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Hawk’s talon lethal hits",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Lasblaster assault lethal hits",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Sunpistol assault lethal hits pistol",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power sword",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Grenade Pack Flyover",
+        "description": "Once per turn, in your Movement phase, when this unit is set up on the battlefield or ends a Normal, Advance or Fall Back move, it can use this ability. If it does, select one enemy unit within 8\" of and visible to this unit and roll one D6 for each SWOOPING HAWKS model in this unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). Each time this unit uses this ability, until the end of the turn, you cannot target this unit with the Grenade Stratagem."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "GRENADES",
+      "ASPECT",
+      "WARRIORS",
+      "SWOOPING",
+      "HAWKS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Troupe",
+    "stats": {
+      "M": "8\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Fusion pistol assault melta 2 pistol",
+        "range": "6\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Neuro disruptor anti-infantry 2+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Harlequin’s blade devastating wounds",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Harlequin’s special weapon devastating wounds",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Power sword devastating wounds",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Dance of Death",
+        "description": "At the start of the Fight phase, select one of the following abilities for this unit to gain until the end of the phase:Hero’s Prowess: Each time a model in this unit makes an attack, re-roll a Hit roll of 1.Villain’s Doom: Each time a model in this unit makes an attack, add 1 to the Wound roll.Trickster’s Grace: Each time an attack targets this unit, subtract 1 from the Hit roll."
+      },
+      {
+        "name": "Flip Belt",
+        "description": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "GRENADES",
+      "TROUPE",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Vibro Cannon Platform",
+    "stats": {
+      "M": "7\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "5",
+      "Ld": "7+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Vibro cannon",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Support Weapon",
+        "description": "Each time an attack targets this model’s unit, if that unit contains one or more other models, until that attack is resolved, this model has a Toughness characteristic of 3.Sonic Destruction: In your Shooting phase, each time this model makes an attack with its vibro cannon that targets an enemy unit, improve the Strength, Armour Penetration and Damage characteristics of that attack by 1 for each other friendly VIBRO CANNON PLATFORM model that made one or more attacks with its vibro cannon that also targeted that enemy unit this phase."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "SUPPORT",
+      "WEAPON",
+      "VIBRO",
+      "CANNON",
+      "PLATFORM",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Voidweaver",
+    "stats": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "4+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Prismatic cannon – dispersed pulse blast",
+        "range": "24\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Prismatic cannon – focused lances",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Voidweaver haywire cannon anti-vehicle 4+ devastating wounds",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Polychromatic Camouflage",
+        "description": "This unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "VOIDWEAVER",
+      "HARLEQUINS"
+    ]
+  },
+  {
+    "name": "Vypers",
+    "stats": {
+      "M": "14\"",
+      "T": "6",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 2",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "2+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Harassment Fire",
+        "description": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "FLY",
+      "VYPERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "War Walkers",
+    "stats": {
+      "M": "10\"",
+      "T": "7",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "War Walker feet",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Crystalline Targeting",
+        "description": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly AELDARI unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. Each unit can only be selected for this ability once per turn."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AELDARI",
+      "WALKER",
+      "WAR",
+      "WALKERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Warlock Conclave",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "6+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Destructor psychic torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear assault psychic",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Protect (Psychic)",
+        "description": "While a FARSEER model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll.Psychic Communion (Psychic): Each time this unit is selected to shoot, for each WARLOCK model in this unit, until the end of the phase, add 1 to the Attacks and Strength characteristics of that model’s Destructor weapon for each other friendly AELDARI PSYKER model within 6\" of that model (to a maximum of +2)."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "PSYKER",
+      "WARLOCKS",
+      "WARLOCK",
+      "CONCLAVE",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Warlock Skyrunners",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "6+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Destructor psychic torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken pistol assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear assault psychic",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Singing spear psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Witchblade anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Runes of Battle (Psychic)",
+        "description": "Weapons equipped by models in this unit have the [IGNORES COVER] ability.Psychic Communion (Psychic): Each time this unit is selected to shoot, for each WARLOCK model in this unit, until the end of the phase, add 1 to the Attacks and Strength characteristics of that model’s Destructor weapon for each other friendly AELDARI PSYKER model within 6\" of that model (to a maximum of +2)."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "PSYKER",
+      "WARLOCKS",
+      "WARLOCK",
+      "SKYRUNNERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Warp Spiders",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Death spinner ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Death weavers ignores cover torrent twin-linked",
+        "range": "6\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Exarch’s death spinner ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Spinneret rifle ignores cover torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Powerblade array lethal hits twin-linked",
+        "range": "Melee",
+        "A": "10",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Powerblades lethal hits twin-linked",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Flickerjump",
+        "description": "In your Movement phase, each time this unit is selected to make a Normal move, it can use this ability. If it does, until the end of the turn, this unit is not eligible to declare a charge and models in it have a Move characteristic of 24\". Each time this unit uses this ability, at the end of the phase, roll one D6 for each model in this unit: for each 1, this unit suffers 1 mortal wound."
+      },
+      {
+        "name": "Aspect Shrine Token",
+        "description": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.Designer’s Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "ASPECT",
+      "WARRIORS",
+      "WARP",
+      "SPIDERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Windriders",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "4+",
+      "W": "2",
+      "Ld": "7+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Swift Demise",
+        "description": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If the target of that attack is the closest eligible target, you can re-roll the Hit roll instead."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "WINDRIDERS",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithblades",
+    "stats": {
+      "M": "6\"",
+      "T": "6",
+      "Sv": "2+",
+      "W": "3",
+      "Ld": "8+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Ghostaxe",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Ghostswords",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Malevolent Souls",
+        "description": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 3+, do not remove it from play; that destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.Psychic Guidance: While this unit is within 12\" of one or more friendly AELDARI PSYKER models, models in this unit have a Leadership characteristic of 6+ and each time a model in this unit makes an attack, add 1 to the Hit roll."
+      },
+      {
+        "name": "Forceshield",
+        "description": "The bearer has a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "WRAITH",
+      "CONSTRUCT",
+      "WRAITHBLADES",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithguard",
+    "stats": {
+      "M": "6\"",
+      "T": "6",
+      "Sv": "2+",
+      "W": "3",
+      "Ld": "8+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Wraithcannon",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "D-scythe torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "7",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "War Construct",
+        "description": "This unit is eligible to shoot in a turn in which it Fell Back.Psychic Guidance: While this unit is within 12\" of one or more friendly AELDARI PSYKER models, models in this unit have a Leadership characteristic of 6+ and each time a model in this unit makes an attack, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "WRAITH",
+      "CONSTRUCT",
+      "WRAITHGUARD",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithknight",
+    "stats": {
+      "M": "12\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Heavy wraithcannon devastating wounds",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-4",
+        "D": "2D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Suncannon blast",
+        "range": "48\"",
+        "A": "D6+4",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titanic Strides",
+        "description": "Each time this model makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, this model is Battle-shocked.Point-blank Devastation: Each time this model’s heavy wraithcannon or suncannon targets a unit within half range, you can re-roll the dice to determine the number of attacks made."
+      },
+      {
+        "name": "Scattershield",
+        "description": "The bearer has a 4+ invulnerable save and each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "TITANIC",
+      "TOWERING",
+      "AELDARI",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "WRAITHKNIGHT",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithknight with Ghostglaive",
+    "stats": {
+      "M": "12\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Heavy wraithcannon devastating wounds",
+        "range": "36\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-4",
+        "D": "2D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic ghostglaive – strike",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-3",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic ghostglaive – sweep",
+        "range": "Melee",
+        "A": "15",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titanic Agility",
+        "description": "Each time this model makes a Normal, Advance or Fall Back move, it can move through models and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them."
+      },
+      {
+        "name": "Scattershield",
+        "description": "The bearer has a 4+ invulnerable save and each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "TITANIC",
+      "TOWERING",
+      "AELDARI",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "WRAITHKNIGHT",
+      "GHOSTGLAIVE",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithlord",
+    "stats": {
+      "M": "8\"",
+      "T": "10",
+      "Sv": "2+",
+      "W": "10",
+      "Ld": "8+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser sustained hits 1",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon lethal hits",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Ghostglaive – strike",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-3",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Ghostglaive – sweep",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone fists",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Fated Hero",
+        "description": "At the start of the battle, select one of the following keywords: INFANTRY; MONSTER; MOUNTED; VEHICLE. Each time this model makes an attack that targets a unit with the selected keyword, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.Psychic Guidance: While this model is within 12\" of one or more friendly AELDARI PSYKER models, improve the Ballistic Skill and Weapon Skill characteristics of weapons equipped by this model by 1 and it has a Leadership characteristic of 6+."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "AELDARI",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "WRAITHLORD",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Ynnari Incubi",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Demiklaives – single blade",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Demiklaives – dual blades twin-linked",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Klaive",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Tormentors",
+        "description": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units from your army with this ability must take a Battle-shock test."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "AELDARI",
+      "INCUBI",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Ynnari Reavers",
+    "stats": {
+      "M": "16\"",
+      "T": "4",
+      "Sv": "4+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Heat lance assault melta 3",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter pistol anti-infantry 3+ assault pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter rifle anti-infantry 3+ assault",
+        "range": "24\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Agoniser anti-infantry 3+",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bladevanes",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Eviscerating Fly-by",
+        "description": "Each time this unit ends a Normal move, you can select one enemy unit (excluding MONSTERS and VEHICLES) that it moved over during that move. If you do, roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+      },
+      {
+        "name": "Cluster Caltrops",
+        "description": "Each time you roll a D6 for the bearer while resolving this unit’s Eviscerating Fly-by ability, you can re-roll the result."
+      },
+      {
+        "name": "Grav-talon",
+        "description": "The bearer’s melee weapons have the [LANCE] ability."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "AELDARI",
+      "FLY",
+      "REAVERS",
+      "YNNARI"
+    ]
+  },
+  {
+    "name": "Phantom Titan",
+    "stats": {
+      "M": "14\"",
+      "T": "14",
+      "Sv": "2+",
+      "W": "55",
+      "Ld": "6+",
+      "OC": "20"
+    },
+    "weapons": [
+      {
+        "name": "D-bombard blast devastating wounds",
+        "range": "72\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "20",
+        "AP": "-4",
+        "D": "2D6",
+        "abilities": ""
+      },
+      {
+        "name": "Phantom pulsar",
+        "range": "120\"",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-4",
+        "D": "6",
+        "abilities": ""
+      },
+      {
+        "name": "Phantom starcannon",
+        "range": "36\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Pulse laser",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Voidstorm missile launcher",
+        "range": "48\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Phantom feet",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-2",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Wraith glaive – strike",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-4",
+        "D": "12",
+        "abilities": ""
+      },
+      {
+        "name": "Wraith glaive – sweep",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titanic Advance",
+        "description": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there.Towering Wraith Construct: Each time you target this model with a Stratagem, you must spend three times that Stratagem’s stated CP cost to do so.Flawless Poise: This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "TITANIC",
+      "TOWERING",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "AELDARI",
+      "PHANTOM",
+      "TITAN",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Revenant Titan",
+    "stats": {
+      "M": "16\"",
+      "T": "13",
+      "Sv": "2+",
+      "W": "30",
+      "Ld": "6+",
+      "OC": "16"
+    },
+    "weapons": [
+      {
+        "name": "Cloudburst missile launcher blast",
+        "range": "36\"",
+        "A": "2D6",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-2",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Revenant pulsar assault",
+        "range": "60\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "14",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Sonic lance anti-monster 4+ anti-vehicle 4+ assault torrent",
+        "range": "18\"",
+        "A": "D6+6",
+        "BS_WS": "N/A",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Revenant feet",
+        "range": "Melee",
+        "A": "8",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-1",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titanic Advance",
+        "description": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there.Towering Wraith Construct: Each time you target this model with a Stratagem, you must spend twice that Stratagem’s stated CP cost to do so.Revenant Jet Pack: Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 8\" to the Move characteristic of this model."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "TITANIC",
+      "TOWERING",
+      "WALKER",
+      "FLY",
+      "WRAITH",
+      "CONSTRUCT",
+      "AELDARI",
+      "REVENANT",
+      "TITAN",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Cobra",
+    "stats": {
+      "M": "14\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "24",
+      "Ld": "6+",
+      "OC": "8"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "D-impaler blast devastating wounds",
+        "range": "36\"",
+        "A": "D6+3",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-4",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "D-rift",
+        "description": "In your Shooting phase, just after selecting a target for this model’s D-impaler, roll one D6 for the target unit and every other unit within 3\" of that unit: on a 5+, the unit being rolled for is struck by a D-rift. After this model has finished making its attacks against that target unit this phase, each unit struck by a D-rift this phase suffers D3 mortal wounds."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "FLY",
+      "AELDARI",
+      "COBRA",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Corsair Cloud Dancer Band",
+    "stats": {
+      "M": "14\"",
+      "T": "4",
+      "Sv": "3+",
+      "W": "2",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Brace of pistols assault pistol",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dark lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Dissonance cannon devastating wounds",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Dissonance pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter cannon anti-infantry 3+ sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Void sabre",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Reckless Abandon",
+        "description": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+      }
+    ],
+    "keywords": [
+      "MOUNTED",
+      "GRENADES",
+      "ANHRATHE",
+      "CORSAIR",
+      "CLOUD",
+      "DANCER",
+      "BAND",
+      "AELDARI"
+    ]
+  },
+  {
+    "name": "Corsair Reaver Band",
+    "stats": {
+      "M": "7\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – sunburst BLAST",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Blaster assault",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Brace of pistols assault pistol",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Corsair firearm assault lethal hits",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dark lance heavy",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Dissonance pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fusion gun assault melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder assault torrent",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter cannon anti-infantry 3+ sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Spar-glaive",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Void sabre",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Reaver Band",
+        "description": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "GRENADES",
+      "ANHRATHE",
+      "AELDARI",
+      "CORSAIR",
+      "REAVER",
+      "BAND",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Corsair Skyreaver Band",
+    "stats": {
+      "M": "14\"",
+      "T": "3",
+      "Sv": "5+",
+      "W": "3",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – sunburst BLAST",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Blaster ASSAULT",
+        "range": "18\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Brace of pistols assault pistol",
+        "range": "12\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Corsair firearm assault lethal hits",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Dark lance heavy",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Dissonance pistol devastating wounds pistol",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Flamer assault ignores cover torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "4",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Fusion gun assault melta 2",
+        "range": "12\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-4",
+        "D": "D6+1",
+        "abilities": ""
+      },
+      {
+        "name": "Shardcarbine anti-infantry 3+ assault",
+        "range": "18\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "2",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken catapult assault",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Splinter cannon anti-infantry 3+ heavy sustained hits 1",
+        "range": "36\"",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "3",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Shredder ASSAULT TORRENT",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Spar-glaive",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Void sabre",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-2",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Skyleap",
+        "description": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "GRENADES",
+      "ANHRATHE",
+      "FLY",
+      "JUMP",
+      "PACK",
+      "AELDARI",
+      "CORSAIR",
+      "SKYREAVER",
+      "BAND",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Firestorm",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Firestorm scatter laser anti-fly 2+",
+        "range": "36\"",
+        "A": "16",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Skyfire",
+        "description": "Each time you target this model with the Fire Overwatch Stratagem just after an enemy unit that can Fly starts or ends a Normal, Advance or Fall Back move, when resolving that Stratagem, in addition to shooting that enemy unit, you can select up to 3 other enemy units within 24\" of this model that can Fly; this model can also shoot at each of those units with its Firestorm scatter laser (provided each one is an eligible target), but when doing so, an unmodified Hit roll of 6 is required to score a hit."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "FIRESTORM",
+      "AELDARI"
+    ]
+  },
+  {
+    "name": "Hornet",
+    "stats": {
+      "M": "14\"",
+      "T": "7",
+      "Sv": "3+",
+      "W": "8",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Hornet pulse laser",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D3",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lightning Assault",
+        "description": "Each time this model ends a Normal move, you can select one enemy unit (excluding MONSTER and VEHICLE units) that it moved over during that move, then roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AELDARI",
+      "HORNET",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Lynx",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "16",
+      "Ld": "6+",
+      "OC": "4"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Lynx pulsar assault",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "16",
+        "AP": "-3",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Speed of Vaul",
+        "description": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 9\" to the Move characteristic of this model."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AELDARI",
+      "LYNX",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Nightwing",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Twin bright lance twin-linked",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken cannon sustained hits 1 twin-linked",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Interceptor",
+        "description": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "AIRCRAFT",
+      "FLY",
+      "AELDARI",
+      "NIGHTWING",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Phoenix missile array blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Phoenix pulse laser",
+        "range": "48\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken cannon sustained hits 1 twin-linked",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Strafing Run",
+        "description": "Each time this model makes a ranged attack that targets a unit that cannot FLY, add 1 to the Hit roll."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "AELDARI",
+      "PHOENIX",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Scorpion",
+    "stats": {
+      "M": "14\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "24",
+      "Ld": "6+",
+      "OC": "8"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Scorpion pulsar twin-linked",
+        "range": "60\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "18",
+        "AP": "-3",
+        "D": "5",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Lanced Obliteration",
+        "description": "Each time an attack made with this model’s twin Scorpion pulsar destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 4+ instead of on a 6."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "TITANIC",
+      "FLY",
+      "AELDARI",
+      "SCORPION",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Shadow Spectres",
+    "stats": {
+      "M": "12\"",
+      "T": "3",
+      "Sv": "3+",
+      "W": "1",
+      "Ld": "6+",
+      "OC": "1"
+    },
+    "weapons": [
+      {
+        "name": "Prism rifle – dispersed blast",
+        "range": "18\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Prism rifle – focused",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Close combat weapon",
+        "range": "Melee",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "3",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Shade of Twilight",
+        "description": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+      }
+    ],
+    "keywords": [
+      "INFANTRY",
+      "JUMP",
+      "PACK",
+      "FLY",
+      "SHADOW",
+      "SPECTRES",
+      "AELDARI",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Skathach Wraithknight",
+    "stats": {
+      "M": "10\"",
+      "T": "12",
+      "Sv": "2+",
+      "W": "18",
+      "Ld": "6+",
+      "OC": "10"
+    },
+    "weapons": [
+      {
+        "name": "Deathshroud cannon – dispersed blast devastating wounds",
+        "range": "12\"",
+        "A": "3D6",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Deathshroud cannon – focused blast devastating wounds",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Inferno lance melta 2",
+        "range": "24\"",
+        "A": "4",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Titanic feet",
+        "range": "Melee",
+        "A": "5",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Agile",
+        "description": "Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there.Webway Shunt Generator: Once per battle, at the end of your opponent’s turn, if this model is not within Engagement Range of one or more enemy units, you can remove this model from the battlefield and place it into Strategic Reserves."
+      },
+      {
+        "name": "Scattershield",
+        "description": "The bearer has a 4+ invulnerable save."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "TITANIC",
+      "TOWERING",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "AELDARI",
+      "SKATHACH",
+      "WRAITHKNIGHT",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Vampire Hunter",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin pulse laser twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Twin Vampire pulsar twin-linked",
+        "range": "60\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "4",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Titan Hunter",
+        "description": "Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, re-roll a Damage roll of 1."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "TITANIC",
+      "AELDARI",
+      "VAMPIRE",
+      "HUNTER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Vampire Raider",
+    "stats": {},
+    "weapons": [
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Twin pulse laser twin-linked",
+        "range": "48\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "9",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Into the Foe",
+        "description": "If a unit disembarks from this TRANSPORT before it moves, until the end of the turn, that unit is eligible to charge in a turn in which it Advanced."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AIRCRAFT",
+      "TITANIC",
+      "TRANSPORT",
+      "AELDARI",
+      "VAMPIRE",
+      "RAIDER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Warp Hunter",
+    "stats": {
+      "M": "14\"",
+      "T": "9",
+      "Sv": "3+",
+      "W": "12",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "D-flail – blast blast devastating wounds",
+        "range": "24\"",
+        "A": "D3",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-4",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "D-flail – rift devastating wounds torrent",
+        "range": "12\"",
+        "A": "D3",
+        "BS_WS": "N/A",
+        "S": "12",
+        "AP": "-4",
+        "D": "3",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Twin shuriken catapult assault twin-linked",
+        "range": "18\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-3",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithbone hull",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Devastating Assault",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "FLY",
+      "AELDARI",
+      "WARP",
+      "HUNTER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wasp Assault Walker",
+    "stats": {
+      "M": "10\"",
+      "T": "7",
+      "Sv": "3+",
+      "W": "6",
+      "Ld": "6+",
+      "OC": "2"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "3+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "3+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "3+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wasp feet",
+        "range": "Melee",
+        "A": "3",
+        "BS_WS": "3+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Cloudbreakers",
+        "description": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+      }
+    ],
+    "keywords": [
+      "VEHICLE",
+      "WALKER",
+      "FLY",
+      "AELDARI",
+      "WASP",
+      "ASSAULT",
+      "WALKER",
+      "ASURYANI"
+    ]
+  },
+  {
+    "name": "Wraithseer",
+    "stats": {
+      "M": "8\"",
+      "T": "11",
+      "Sv": "2+",
+      "W": "10",
+      "Ld": "6+",
+      "OC": "3"
+    },
+    "weapons": [
+      {
+        "name": "Aeldari missile launcher – sunburst blast",
+        "range": "48\"",
+        "A": "D6",
+        "BS_WS": "4+",
+        "S": "4",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Aeldari missile launcher – starshot",
+        "range": "48\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-2",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Bright lance",
+        "range": "36\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "12",
+        "AP": "-3",
+        "D": "D6+2",
+        "abilities": ""
+      },
+      {
+        "name": "Destructor psychic torrent",
+        "range": "12\"",
+        "A": "D6",
+        "BS_WS": "N/A",
+        "S": "5",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Scatter laser",
+        "range": "36\"",
+        "A": "6",
+        "BS_WS": "4+",
+        "S": "5",
+        "AP": "0",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Shuriken cannon sustained hits 1",
+        "range": "24\"",
+        "A": "3",
+        "BS_WS": "4+",
+        "S": "6",
+        "AP": "-1",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Starcannon",
+        "range": "36\"",
+        "A": "2",
+        "BS_WS": "4+",
+        "S": "8",
+        "AP": "-3",
+        "D": "2",
+        "abilities": ""
+      },
+      {
+        "name": "Wraithseer D-cannon devastating wounds",
+        "range": "24\"",
+        "A": "1",
+        "BS_WS": "4+",
+        "S": "14",
+        "AP": "-4",
+        "D": "D6",
+        "abilities": ""
+      },
+      {
+        "name": "Ghostspear – sweep anti-infantry 2+ psychic",
+        "range": "Melee",
+        "A": "12",
+        "BS_WS": "4+",
+        "S": "7",
+        "AP": "-1",
+        "D": "1",
+        "abilities": ""
+      },
+      {
+        "name": "Ghostspear – strike anti-infantry 2+ precision psychic",
+        "range": "Melee",
+        "A": "4",
+        "BS_WS": "4+",
+        "S": "10",
+        "AP": "-2",
+        "D": "3",
+        "abilities": ""
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Horrify (Psychic)",
+        "description": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+      }
+    ],
+    "keywords": [
+      "MONSTER",
+      "PSYKER",
+      "WALKER",
+      "WRAITH",
+      "CONSTRUCT",
+      "AELDARI",
+      "WRAITHSEER",
+      "ASURYANI"
+    ]
+  }
+]
