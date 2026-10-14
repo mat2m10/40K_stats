@@ -15,6 +15,7 @@ Retry-After); other statuses are not retried.
 
 import argparse
 import asyncio
+import copy
 import json
 import random
 import re
@@ -59,14 +60,16 @@ HEADERS = {
 # Datasheet pages are 2-3 MB and can take well over a minute to download.
 REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=300)
 RETRY_STATUSES = {429, 500, 502, 503, 504}
+# Upper bound on a server-sent Retry-After, so one header cannot stall a run for hours.
+MAX_RETRY_AFTER = 300
 
-# ── Parsing (moved unchanged from notebooks/01_scrape_data.ipynb) ─────────────
+# ── Parsing (moved from notebooks/01_scrape_data.ipynb) ───────────────────────
 
 def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 def to_snake(text):
-    text = re.sub(r"[''']", "", text)          # drop apostrophes
+    text = re.sub(r"['‘’]", "", text)          # drop apostrophes (ASCII and curly)
     text = re.sub(r"[^a-zA-Z0-9]+", "_", text) # non-alphanum → underscore
     return text.strip("_").lower()
     
@@ -82,57 +85,131 @@ def parse_stat_block(ds):
                 stats[label] = value
     return stats
 
+def clean_rich(tag):
+    """Text of a tag with nested spans joined by spaces, minus the stray
+    spaces get_text(" ") leaves before punctuation / inside brackets."""
+    text = clean(tag.get_text(" ") if hasattr(tag, "get_text") else str(tag))
+    text = re.sub(r"\s+([,.;:!?)\]])", r"\1", text)
+    return re.sub(r"([(\[])\s+", r"\1", text)
+
 def parse_weapons(ds):
     weapons = []
     for table in ds.find_all("table", class_="wTable"):
-        rows = table.find_all("tr")
-        for row in rows:
-            cells = [clean(td.get_text()) for td in row.find_all("td")]
-            cells = [c for c in cells if c]  # drop empty
-            if len(cells) >= 6 and cells[0] not in ("", "MELEE WEAPONS", "RANGED WEAPONS"):
-                weapons.append({
-                    "name":      cells[0],
-                    "range":     cells[1],
-                    "A":         cells[2],
-                    "BS_WS":     cells[3],
-                    "S":         cells[4],
-                    "AP":        cells[5],
-                    "D":         cells[6] if len(cells) > 6 else "",
-                    "abilities": cells[7] if len(cells) > 7 else "",
-                })
+        for row in table.find_all("tr"):
+            # Profile rows have 8 cells by position:
+            # icon | name + keyword spans | range | A | BS/WS | S | AP | D.
+            # Cells are indexed by position (never filtered), so an empty cell
+            # cannot shift the columns. Header rows (RANGED/MELEE WEAPONS) and
+            # the 2-cell "wTable2_long" duplicate rows are skipped.
+            tds = row.find_all("td", recursive=False)
+            if len(tds) != 8 or tds[1].find(class_="dsHeader"):
+                continue
+            name_cell = copy.copy(tds[1])
+            kw_spans = name_cell.find_all("span", class_="kwb2")
+            keywords = [clean_rich(s) for s in kw_spans]
+            for s in kw_spans:
+                s.extract()
+            name = clean_rich(name_cell)
+            if not name:
+                continue
+            values = [clean(td.get_text(" ")) for td in tds[2:8]]
+            weapons.append({
+                "name":      name,
+                "range":     values[0],
+                "A":         values[1],
+                "BS_WS":     values[2],
+                "S":         values[3],
+                "AP":        values[4],
+                "D":         values[5],
+                "abilities": ", ".join(keywords),   # e.g. "assault, ignores cover"
+            })
     return weapons
+
+def _split_bold_abilities(ab):
+    """Split one dsAbility div into (name, description) pairs: every <b>
+    ending in ':' starts a new ability, whatever follows is its text."""
+    found, name, parts = [], None, []
+    for node in ab.children:
+        if getattr(node, "name", None) == "b" and clean_rich(node).endswith(":"):
+            if name:
+                found.append((name, clean_rich(" ".join(parts))))
+            name, parts = clean_rich(node)[:-1].strip(), []
+        elif name is not None:
+            parts.append(node.get_text(" ") if hasattr(node, "get_text") else str(node))
+    if name:
+        found.append((name, clean_rich(" ".join(parts))))
+    return found
 
 def parse_abilities(ds):
     abilities = []
+    # NB: the "С" in "dsRightСol" is CYRILLIC CAPITAL LETTER ES (U+0421), not a
+    # Latin C. Wahapedia's own markup uses this class name (checked 2026-10-13),
+    # so do not "fix" it or the abilities column will no longer be found.
     right_col = ds.find("div", class_=lambda c: c and "dsRightСol" in c)
     if not right_col:
         return abilities
-    for ab in right_col.find_all("div", class_="dsAbility"):
-        b_tag = ab.find("b")
-        if b_tag and b_tag.get_text().strip().endswith(":"):
-            name = clean(b_tag.get_text()).rstrip(":")
-            b_tag.decompose()
-            desc = clean(ab.get_text())
-            abilities.append({"name": name, "description": desc})
+    # The right column is a flat list of dsHeader / dsAbility divs. Only read
+    # the ABILITIES (and any *ABILITIES / DAMAGED) sections; UNIT COMPOSITION,
+    # LEADER, TRANSPORT... also use "<b>...:</b>" but are not abilities.
+    section = ""
+    for div in right_col.find_all("div", recursive=False):
+        classes = div.get("class") or []
+        if "dsHeader" in classes:
+            section = clean_rich(div)
+            continue
+        if "dsAbility" not in classes:
+            continue
+        if section.upper().startswith("DAMAGED"):
+            abilities.append({"name": section.title(), "description": clean_rich(div), "type": "damaged"})
+        elif "ABILITIES" in section.upper():
+            kind = "wargear" if "WARGEAR" in section.upper() else "datasheet"
+            text = clean_rich(div)
+            m = re.match(r"(CORE|FACTION):\s*(.*)", text)
+            if m:  # "CORE: Deep Strike, Leader" -> one entry per rule
+                for rule in m.group(2).split(","):
+                    if rule.strip():
+                        abilities.append({"name": rule.strip(), "description": "", "type": m.group(1).lower()})
+                continue
+            for name, desc in _split_bold_abilities(div):
+                abilities.append({"name": name, "description": desc, "type": kind})
     return abilities
 
+def _keyword_list(col):
+    """Comma-separated keyword groups -> list (multi-word keywords kept whole)."""
+    keywords = []
+    for group in col.find_all("span", recursive=False):
+        for kw in clean_rich(group).split(","):
+            kw = kw.strip()
+            if kw and kw not in keywords:
+                keywords.append(kw)
+    return keywords
+
 def parse_keywords(ds):
+    """Unit keywords (all models + model-specific), e.g. ['INFANTRY', 'GREAT DEVOURER']."""
     kw_div = ds.find("div", class_="ds2colKW")
     if not kw_div:
         return []
-    return [clean(span.get_text()) for span in kw_div.find_all("span", class_="kwb")]
+    # class is "dsLeftСolKW" with a Cyrillic С, so match on the prefix
+    left = kw_div.find("div", class_=lambda c: c and c.startswith("dsLeft"))
+    return _keyword_list(left) if left else []
+
+def parse_faction_keywords(ds):
+    kw_div = ds.find("div", class_="ds2colKW")
+    right = kw_div.find("div", class_=lambda c: c and c.startswith("dsRight")) if kw_div else None
+    return _keyword_list(right) if right else []
 
 
 def parse_datasheet(ds):
     name_tag = ds.find("div", class_="dsH2Header")
     name = clean(name_tag.find("div").get_text()) if name_tag else "Unknown"
     return {
-        "name":      name,
-        "id":        to_snake(name),
-        "stats":     parse_stat_block(ds),
-        "weapons":   parse_weapons(ds),
-        "abilities": parse_abilities(ds),
-        "keywords":  parse_keywords(ds),
+        "name":             name,
+        "id":               to_snake(name),
+        "stats":            parse_stat_block(ds),
+        "weapons":          parse_weapons(ds),
+        "abilities":        parse_abilities(ds),
+        "keywords":         parse_keywords(ds),
+        "faction_keywords": parse_faction_keywords(ds),
     }
 
 
@@ -148,7 +225,7 @@ def _retry_delay(attempt, backoff, retry_after=None):
     """Seconds to wait before the next attempt (attempt is 1-based)."""
     if retry_after:
         try:
-            return max(0.0, float(retry_after))
+            return min(MAX_RETRY_AFTER, max(0.0, float(retry_after)))
         except ValueError:
             pass  # HTTP-date form: fall back to exponential backoff
     return backoff * 2 ** (attempt - 1) + random.uniform(0, 1)

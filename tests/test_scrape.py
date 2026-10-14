@@ -23,14 +23,26 @@ def test_stat_block(units):
     assert units[0]["stats"] == {"M": '8"', "T": "5", "SV": "4+", "W": "3"}
 
 
+def test_to_snake_drops_ascii_and_curly_apostrophes():
+    assert scrape.to_snake("T'au Empire") == "tau_empire"
+    assert scrape.to_snake("Ghazghkull’s Waaagh") == "ghazghkulls_waaagh"
+    assert scrape.to_snake("‘Ard Boyz") == "ard_boyz"
+
+
 def test_weapon_profiles(units):
     weapons = units[0]["weapons"]
     assert len(weapons) == 2  # header rows and the colspan duplicates are skipped
     ranged, melee = weapons
     assert (ranged["range"], ranged["A"], ranged["BS_WS"], ranged["S"], ranged["AP"], ranged["D"]) == (
         '18"', "D6", "4+", "5", "-1", "2")
-    assert ranged["name"].startswith("Goo spitter")
     assert (melee["name"], melee["range"], melee["D"]) == ("Sharp bits", "Melee", "1")
+
+
+def test_weapon_keywords_split_from_name(units):
+    ranged, melee = units[0]["weapons"]
+    assert ranged["name"] == "Goo spitter"
+    assert ranged["abilities"] == "assault, ignores cover"
+    assert melee["abilities"] == ""
 
 
 def test_abilities_use_cyrillic_class(units):
@@ -39,13 +51,31 @@ def test_abilities_use_cyrillic_class(units):
     assert "Slimy Hide" in names
 
 
+def test_abilities_sections_and_splitting(units):
+    abilities = [(a["name"], a["type"]) for a in units[0]["abilities"]]
+    assert abilities == [
+        ("Deep Strike", "core"),               # "CORE: ..." -> one entry per rule
+        ("Slimy Hide", "datasheet"),
+        ("Spore Burst", "datasheet"),          # two <b>Name:</b> in one div -> two entries
+        ("Regrowth", "datasheet"),
+        ("Damaged: 1-3 Wounds Remaining", "damaged"),
+    ]  # UNIT COMPOSITION "<b>...:</b>" lines are not abilities
+    by_name = {a["name"]: a["description"] for a in units[0]["abilities"]}
+    assert by_name["Slimy Hide"] == "Each time an attack targets this unit, subtract 1 from the Wound roll."
+    assert by_name["Spore Burst"] == "Once per battle, this unit can burst."
+    assert by_name["Regrowth"] == "At the end of your turn, heal 1 wound."
+
+
 def test_keywords(units):
-    assert "INFANTRY" in units[0]["keywords"]
+    # Multi-word keywords stay whole; faction keywords are kept separately.
+    assert units[0]["keywords"] == ["INFANTRY", "GREAT DEVOURER", "TEST BROOD"]
+    assert units[0]["faction_keywords"] == ["TYRANIDS"]
 
 
 def test_minimal_datasheet(units):
     lone = units[1]
     assert lone["stats"] == {} and lone["weapons"] == [] and lone["abilities"] == []
+    assert lone["keywords"] == [] and lone["faction_keywords"] == []
 
 
 # ── fetch retry behaviour ─────────────────────────────────────────────────────
@@ -112,3 +142,8 @@ def test_does_not_retry_404():
 def test_gives_up_after_retries():
     (_, _, status, html), calls, sleeps = run_fetch([FakeResponse(502)] * 3, retries=3)
     assert (status, html, calls, len(sleeps)) == (502, "", 3, 2)
+
+
+def test_retry_after_is_capped():
+    assert scrape._retry_delay(1, 2.0, "3600") == scrape.MAX_RETRY_AFTER
+    assert scrape._retry_delay(1, 2.0, "7") == 7.0
