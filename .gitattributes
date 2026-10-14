@@ -1,0 +1,4 @@
+# Strip notebook outputs on commit. Activate once per clone with:
+#   pip install nbstripout && nbstripout --install
+# (without that, git ignores this undefined filter)
+*.ipynb filter=nbstripout
